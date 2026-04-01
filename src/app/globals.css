@@ -1,26 +1,281 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+/* Prevent horizontal scroll caused by decorative absolute-positioned elements */
+html {
+  overflow-x: clip;
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
+  --color-saffron-50: #fff7ed;
+  --color-saffron-100: #ffedd5;
+  --color-saffron-200: #fed7aa;
+  --color-saffron-300: #fdba74;
+  --color-saffron-400: #fb923c;
+  --color-saffron-500: #f97316;
+  --color-saffron-600: #ea580c;
+  --color-saffron-700: #c2410c;
+  --color-saffron-800: #9a3412;
+  --color-saffron-900: #7c2d12;
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  --color-maroon-50: #fdf2f2;
+  --color-maroon-100: #fce4e4;
+  --color-maroon-200: #fbcfcf;
+  --color-maroon-300: #f7a5a5;
+  --color-maroon-400: #ef6b6b;
+  --color-maroon-500: #e53e3e;
+  --color-maroon-600: #c53030;
+  --color-maroon-700: #9b2c2c;
+  --color-maroon-800: #822727;
+  --color-maroon-900: #63171b;
+
+  --color-gold-50: #fffbeb;
+  --color-gold-100: #fef3c7;
+  --color-gold-200: #fde68a;
+  --color-gold-300: #fcd34d;
+  --color-gold-400: #fbbf24;
+  --color-gold-500: #d4a843;
+  --color-gold-600: #b8942e;
+  --color-gold-700: #92740a;
+
+  /* Spiritual palette */
+  --color-lotus-pink: #F9A8C9;
+  --color-incense-purple: #9F7AEA;
+  --color-tulsi-green: #48BB78;
+  --color-ghee-amber: #F6AD55;
+
+  /* Warm gray (stone-based) */
+  --color-warm-gray-50: #FAFAF9;
+  --color-warm-gray-100: #F5F5F4;
+  --color-warm-gray-200: #E7E5E4;
+  --color-warm-gray-300: #D6D3D1;
+  --color-warm-gray-400: #A8A29E;
+  --color-warm-gray-500: #78716C;
+  --color-warm-gray-600: #57534E;
+  --color-warm-gray-700: #44403C;
+  --color-warm-gray-800: #292524;
+  --color-warm-gray-900: #1C1917;
+
+  --font-sans: "Inter", system-ui, -apple-system, sans-serif;
+  --font-display: "Playfair Display", Georgia, serif;
+  --font-devanagari: "Noto Sans Devanagari", sans-serif;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: #ffffff;
+  color: #1a1a1a;
+  font-family: var(--font-sans);
 }
+
+html {
+  scroll-behavior: smooth;
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-saffron-500);
+  outline-offset: 2px;
+}
+
+/* Decorative pattern overlay for hero sections */
+.hero-pattern {
+  background-image:
+    radial-gradient(circle at 25% 25%, rgba(255, 255, 255, 0.08) 1px, transparent 1px),
+    radial-gradient(circle at 75% 75%, rgba(255, 255, 255, 0.05) 1px, transparent 1px);
+  background-size: 40px 40px;
+}
+
+.text-gradient-saffron {
+  background: linear-gradient(135deg, var(--color-saffron-400), var(--color-gold-300));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Card shine hover effect */
+.card-shine {
+  position: relative;
+  overflow: hidden;
+}
+.card-shine::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.08), transparent);
+  transition: left 0.5s ease;
+}
+.card-shine:hover::before {
+  left: 100%;
+}
+
+/* Fluid typography */
+.text-hero { font-size: clamp(2.25rem, 5vw, 3.75rem); line-height: 1.2; letter-spacing: -0.02em; }
+.text-page-title { font-size: clamp(2rem, 4vw, 3rem); line-height: 1.2; letter-spacing: -0.02em; }
+.text-section { font-size: clamp(1.75rem, 3.5vw, 2.5rem); line-height: 1.2; }
+.text-subsection { font-size: clamp(1.5rem, 3vw, 2rem); line-height: 1.2; }
+
+/* Signature gradients */
+.bg-gradient-sunrise { background: linear-gradient(135deg, #F97316 0%, #FBBF24 100%); }
+.bg-gradient-dusk { background: linear-gradient(135deg, #9A3412 0%, #63171B 100%); }
+.bg-gradient-divine { background: linear-gradient(135deg, #FB923C 0%, #FCD34D 100%); }
+.bg-gradient-peaceful { background: linear-gradient(180deg, rgba(255,247,237,1) 0%, rgba(255,255,255,1) 100%); }
+
+/* Glassmorphism */
+.glass { background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(12px); border: 1px solid rgba(255, 255, 255, 0.2); }
+.glass-dark { background: rgba(0, 0, 0, 0.2); backdrop-filter: blur(12px); border: 1px solid rgba(255, 255, 255, 0.1); }
+
+/* Scroll-triggered fade-in animation */
+.animate-fade-in-up {
+  opacity: 0;
+  transform: translateY(16px);
+  transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+}
+.animate-fade-in-up.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+@keyframes spin-slow { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+.animate-spin-slow { animation: spin-slow 3s linear infinite; }
+
+@keyframes shimmer { 0% { background-position: -200% 0; } 100% { background-position: 200% 0; } }
+.animate-shimmer { background: linear-gradient(90deg, #E7E5E4 25%, #D6D3D1 50%, #E7E5E4 75%); background-size: 200% 100%; animation: shimmer 1.5s ease-in-out infinite; }
+
+@keyframes pulse-glow {
+  0%, 100% { transform: scale(1); opacity: 1; }
+  50% { transform: scale(1.2); opacity: 0.7; }
+}
+.animate-pulse-glow { animation: pulse-glow 2s ease-in-out infinite; }
+
+.btn-press { transition: transform 0.1s ease; }
+.btn-press:active { transform: scale(0.98); }
+
+.card-hover { transition: transform 0.3s ease, box-shadow 0.3s ease; }
+.card-hover:hover { transform: translateY(-4px); }
+
+/* Lotus divider */
+.lotus-divider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  padding: 2rem 0;
+}
+.lotus-divider::before,
+.lotus-divider::after {
+  content: "";
+  flex: 1;
+  max-width: 120px;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--color-saffron-300), transparent);
+}
+
+/* Reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+:root {
+  --theme-primary: var(--color-saffron-500);
+  --theme-primary-hover: var(--color-saffron-600);
+  --theme-primary-light: var(--color-saffron-50);
+  --theme-secondary: var(--color-maroon-500);
+  --theme-accent: var(--color-gold-400);
+  --theme-bg: #ffffff;
+  --theme-bg-alt: var(--color-warm-gray-50);
+  --theme-text: #1C1917;
+  --theme-text-secondary: #57534E;
+}
+
+/* Sacred glow */
+.sacred-glow {
+  box-shadow: 0 0 15px rgba(251, 191, 36, 0.15), 0 0 30px rgba(249, 115, 22, 0.08);
+}
+.sacred-glow-strong {
+  box-shadow: 0 0 20px rgba(251, 191, 36, 0.25), 0 0 40px rgba(249, 115, 22, 0.12), 0 0 60px rgba(249, 115, 22, 0.06);
+}
+.sacred-glow-text {
+  text-shadow: 0 0 10px rgba(251, 191, 36, 0.3), 0 0 20px rgba(249, 115, 22, 0.15);
+}
+
+.text-gradient-divine {
+  background: linear-gradient(135deg, var(--color-saffron-500), var(--color-gold-400));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Temple Pillar Accents */
+.pillar-accent-left { position: relative; }
+.pillar-accent-left::before {
+  content: ""; position: absolute; top: 24px; bottom: 24px; left: 0; width: 3px;
+  background: linear-gradient(180deg, transparent 0%, var(--color-saffron-300) 15%, var(--color-saffron-400) 50%, var(--color-saffron-300) 85%, transparent 100%);
+  border-radius: 2px; pointer-events: none;
+}
+.pillar-accent-left::after {
+  content: ""; position: absolute; top: 14px; left: -4px; width: 11px; height: 11px;
+  background: radial-gradient(circle, var(--color-saffron-400) 40%, var(--color-gold-400) 70%, transparent 71%);
+  border-radius: 50%; pointer-events: none;
+}
+
+.pillar-accent-right { position: relative; }
+.pillar-accent-right::before {
+  content: ""; position: absolute; top: 24px; bottom: 24px; right: 0; width: 3px;
+  background: linear-gradient(180deg, transparent 0%, var(--color-saffron-300) 15%, var(--color-saffron-400) 50%, var(--color-saffron-300) 85%, transparent 100%);
+  border-radius: 2px; pointer-events: none;
+}
+.pillar-accent-right::after {
+  content: ""; position: absolute; top: 14px; right: -4px; width: 11px; height: 11px;
+  background: radial-gradient(circle, var(--color-saffron-400) 40%, var(--color-gold-400) 70%, transparent 71%);
+  border-radius: 50%; pointer-events: none;
+}
+
+.pillar-accent-both { position: relative; }
+.pillar-accent-both::before, .pillar-accent-both::after {
+  content: ""; position: absolute; top: 24px; bottom: 24px; width: 3px;
+  background: linear-gradient(180deg, transparent 0%, var(--color-saffron-300) 15%, var(--color-saffron-400) 50%, var(--color-saffron-300) 85%, transparent 100%);
+  border-radius: 2px; pointer-events: none;
+}
+.pillar-accent-both::before { left: 0; }
+.pillar-accent-both::after { right: 0; }
+
+.bg-warm-cream {
+  background: linear-gradient(180deg, rgba(255, 247, 237, 0.5) 0%, rgba(255, 237, 213, 0.3) 50%, rgba(255, 247, 237, 0.5) 100%);
+}
+
+.saffron-edge-glow { position: relative; }
+.saffron-edge-glow::before {
+  content: ""; position: absolute; top: 0; bottom: 0; left: 0; width: 80px;
+  background: linear-gradient(90deg, rgba(249, 115, 22, 0.04), transparent); pointer-events: none;
+}
+.saffron-edge-glow::after {
+  content: ""; position: absolute; top: 0; bottom: 0; right: 0; width: 80px;
+  background: linear-gradient(270deg, rgba(249, 115, 22, 0.04), transparent); pointer-events: none;
+}
+
+@media (max-width: 639px) {
+  .pillar-accent-left::before, .pillar-accent-left::after,
+  .pillar-accent-right::before, .pillar-accent-right::after,
+  .pillar-accent-both::before, .pillar-accent-both::after { display: none; }
+}
+
+/* Rich text editor styles */
+.tiptap-editor .ProseMirror { min-height: 300px; padding: 1rem; outline: none; }
+.tiptap-editor .ProseMirror p.is-editor-empty:first-child::before {
+  color: var(--color-warm-gray-400); content: attr(data-placeholder); float: left; height: 0; pointer-events: none;
+}
+.tiptap-editor .ProseMirror h2 { font-size: 1.5rem; font-weight: 700; margin: 1.5rem 0 0.75rem; }
+.tiptap-editor .ProseMirror h3 { font-size: 1.25rem; font-weight: 600; margin: 1.25rem 0 0.5rem; }
+.tiptap-editor .ProseMirror ul { list-style: disc; padding-left: 1.5rem; }
+.tiptap-editor .ProseMirror ol { list-style: decimal; padding-left: 1.5rem; }
+.tiptap-editor .ProseMirror blockquote {
+  border-left: 3px solid var(--color-saffron-400); padding-left: 1rem; margin: 1rem 0; color: var(--color-warm-gray-600);
+}
+.tiptap-editor .ProseMirror a { color: var(--color-saffron-600); text-decoration: underline; }
+.tiptap-editor .ProseMirror img { max-width: 100%; height: auto; border-radius: 0.5rem; margin: 1rem 0; }

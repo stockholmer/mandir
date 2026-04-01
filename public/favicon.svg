@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Om favicon — saffron Devanagari glyph on transparent -->
+  <text
+    x="32"
+    y="52"
+    text-anchor="middle"
+    fill="#f97316"
+    font-size="56"
+    font-family="'Noto Sans Devanagari', 'Segoe UI Symbol', 'Apple Symbols', serif"
+    font-weight="700"
+  >&#x0950;</text>
+</svg>

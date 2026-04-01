@@ -1,0 +1,1399 @@
+{
+  "common": {
+    "siteName": "Hindu Mandir Stockholm",
+    "siteDescription": "Hindu Mandir Society Stockholm — En plats för bön, gemenskap och kultur",
+    "language": "Svenska",
+    "switchLanguage": "English",
+    "learnMore": "Läs mer",
+    "readMore": "Läs mer",
+    "backToHome": "Tillbaka till startsidan",
+    "submit": "Skicka",
+    "loading": "Laddar...",
+    "required": "Obligatoriskt",
+    "success": "Klart!",
+    "error": "Något gick fel. Försök igen.",
+    "submitting": "Skickar...",
+    "all": "Alla",
+    "rateLimited": "För många inskickningar. Försök igen senare."
+  },
+  "nav": {
+    "home": "Hem",
+    "about": "Om oss",
+    "history": "Vår historia",
+    "boardMembers": "Styrelsemedlemmar",
+    "documents": "Dokument",
+    "services": "Tjänster",
+    "events": "Evenemang",
+    "gallery": "Galleri",
+    "membership": "Medlemskap",
+    "donation": "Donation",
+    "bhandara": "Bhandara",
+    "contact": "Kontakt",
+    "newsletter": "Nyhetsbrev",
+    "liveStream": "Livestream",
+    "volunteer": "Volontär",
+    "timeslots": "Boka Pooja",
+    "feedback": "Feedback"
+  },
+  "home": {
+    "hero": {
+      "title": "Välkommen till Hindu Mandir Stockholm",
+      "subtitle": "En plats för bön, gemenskap och indisk kultur i hjärtat av Stockholm",
+      "cta": "Bli medlem",
+      "ctaSecondary": "Kommande evenemang",
+      "blessing": "ॐ सर्वे भवन्तु सुखिनः"
+    },
+    "sanskritVerse": {
+      "verse": "सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः। सर्वे भद्राणि पश्यन्तु मा कश्चिद्दुःखभाग्भवेत्॥",
+      "translation": "Må alla vara lyckliga, må alla vara fria från sjukdom, må alla se godhet, må ingen lida",
+      "source": "Shanti Mantra"
+    },
+    "about": {
+      "title": "Om templet",
+      "description": "Sedan 1998 har Hindu Mandir skyddat och främjat svenska hinduers intressen. Vi värnar om den hinduiska traditionen och livsstilen i Sverige och tjänar cirka 70 000 hinduer med regelbundna pujaer, kulturella evenemang och program för alla åldrar."
+    },
+    "upcomingEvents": {
+      "title": "Kommande evenemang",
+      "viewAll": "Visa alla evenemang",
+      "noEvents": "Inga kommande evenemang just nu. Besök evenemangssidan för hela kalendern."
+    },
+    "services": {
+      "title": "Våra tjänster",
+      "puja": "Puja & bön",
+      "pujaDesc": "Dagliga och veckovisa puja-ceremonier för alla",
+      "events": "Festivaler & evenemang",
+      "eventsDesc": "Fira hinduiska festivaler och kulturella evenemang",
+      "bhandara": "Bhandara",
+      "bhandaraDesc": "Boka gemensam måltid vid templet",
+      "community": "Gemenskap",
+      "communityDesc": "Bli en del av vår växande gemenskap",
+      "learnMore": "Läs mer"
+    },
+    "cta": {
+      "title": "Stöd Hindu Mandir Stockholm",
+      "description": "Din donation hjälper oss att upprätthålla templet och arrangera evenemang för gemenskapen.",
+      "donate": "Donera nu",
+      "membership": "Bli medlem",
+      "blessing": "\"Sarve Bhavantu Sukhinah\" — Må alla varelser vara lyckliga"
+    },
+    "meta": {
+      "title": "Hindu Mandir Stockholm",
+      "description": "Välkommen till Hindu Mandir Stockholm — en plats för bön, gemenskap och indisk kultur i Helenelund, Stockholm."
+    }
+  },
+  "events": {
+    "title": "Evenemang & festivaler",
+    "subtitle": "Delta i religiösa ceremonier, kulturella firanden och gemenskapssamlingar",
+    "upcoming": "Kommande evenemang",
+    "past": "Tidigare evenemang",
+    "noEvents": "Inga evenemang planerade just nu. Kolla tillbaka snart!",
+    "date": "Datum",
+    "time": "Tid",
+    "location": "Plats",
+    "rsvp": "Anmäl dig",
+    "rsvpName": "Ditt namn",
+    "rsvpEmail": "E-post",
+    "rsvpPhone": "Telefon (valfritt)",
+    "rsvpGuests": "Antal gäster",
+    "rsvpSuccess": "Din anmälan har registrerats! Vi ser fram emot att träffa dig.",
+    "close": "Stäng",
+    "addToCalendar": "Lägg till i kalender",
+    "downloadICS": "Ladda ner .ics",
+    "listView": "Listvy",
+    "calendarView": "Kalendervy",
+    "filterAll": "Alla",
+    "filterPuja": "Puja",
+    "filterFestival": "Festival",
+    "filterCultural": "Kulturellt",
+    "subscribeCalendar": "Prenumerera på kalender",
+    "subscribeCopied": "Länk kopierad!",
+    "subscribeTooltip": "Lägg till i din kalenderapp för automatiska uppdateringar",
+    "bookPujaSlots": "Boka Puja-tider",
+    "weekdays": {
+      "sun": "Sön",
+      "mon": "Mån",
+      "tue": "Tis",
+      "wed": "Ons",
+      "thu": "Tor",
+      "fri": "Fre",
+      "sat": "Lör"
+    },
+    "calendar": {
+      "noEvents": "Inga evenemang denna dag",
+      "clickForDetails": "Klicka för detaljer"
+    },
+    "meta": {
+      "title": "Evenemang & festivaler",
+      "description": "Kommande pujaer, festivaler och gemenskapsevenemang på Hindu Mandir Stockholm"
+    },
+    "exportMonth": "Exportera månad",
+    "legend": "Förklaring:",
+    "pastEvents": "Tidigare evenemang",
+    "copyUrl": "Kopiera URL",
+    "categoryPuja": "Puja",
+    "categoryFestival": "Festival",
+    "categoryCultural": "Kulturellt",
+    "categoryEvent": "Evenemang"
+  },
+  "services": {
+    "title": "Tempeltjänster",
+    "subtitle": "Vi erbjuder en mängd olika religiösa och gemenskapstjänster",
+    "intro": "Kom och bli stolta sponsorer av söndagens Satsang, Pooja och Preeti Bhoj. Kom med er familj och vänner och ta chansen att tacka den Allsmäktige för allt vi fått, få välsignelser och be om fortsatt fred, hälsa och lycka.",
+    "dailyPuja": "Daglig puja",
+    "dailyPujaDesc": "Morgon- och kvällsaarti och puja-ceremonier hålls dagligen i templet.",
+    "specialPuja": "Speciell puja",
+    "specialPujaDesc": "Personliga puja-ceremonier för speciella tillfällen — namkaran, gruh pravesh, satyanarayan katha med mera.",
+    "festivals": "Hinduiska festivaler",
+    "festivalsDesc": "Vi firar alla stora hinduiska festivaler inklusive Diwali, Holi, Navratri, Janmashtami och många fler.",
+    "youthPrograms": "Ungdomsprogram",
+    "youthProgramsDesc": "Kultur- och språkklasser för barn och ungdomar för att hålla kontakten med sitt arv.",
+    "yogaMeditation": "Yoga & meditation",
+    "yogaMeditationDesc": "Veckovisa yoga- och meditationssessioner öppna för alla medlemmar.",
+    "communityHall": "Gemenskapslokal",
+    "communityHallDesc": "Vår gemenskapslokal är tillgänglig för kulturella evenemang, firanden och sammankomster.",
+    "pricingTitle": "Prislista för tjänster",
+    "pricingSubtitle": "Lista över tjänster och donationer till templet",
+    "memberColumn": "Medlem",
+    "nonMemberColumn": "Icke-medlem",
+    "generalServices": "Tjänster",
+    "bhandaraInMandir": "Bhandara i templet",
+    "bhandaraPrice": "5 100 kr",
+    "lastRituals": "Begravningsritualer",
+    "namKaran": "Nam Karan",
+    "hawan": "Hawan",
+    "shantiPath": "Shanti Path",
+    "grahPravesh": "Grah Pravesh",
+    "weddingServices": "Bröllopstjänster",
+    "panditHouseCall": "Pandit ji hembesök (exkl. resekostnader)",
+    "panditHouseCallPrice": "1 100 kr",
+    "mandirWithoutKitchen": "I templet utan kök",
+    "mandirWithoutKitchenPrice": "2 100 kr",
+    "mandirWithKitchen": "I templet med kök",
+    "mandirWithKitchenPrice": "5 100 kr",
+    "available": "Tillgänglig",
+    "notAvailable": "Ej tillgänglig",
+    "membersOnly": "Endast för medlemmar",
+    "membersOnlyTitle": "Tjänster endast för medlemmar",
+    "membersOnlyExplanation": "Tjänster markerade med en bock för medlemmar och ett kryss för icke-medlemmar är exklusivt tillgängliga för registrerade medlemmar. Bli medlem för att få tillgång till alla tjänster.",
+    "becomeMember": "Bli medlem",
+    "pujaOpportunitiesTitle": "Kommande Puja-möjligheter",
+    "pujaOpportunitiesSubtitle": "Boka dina puja-tider för kommande festivaler och speciella tillfällen",
+    "bookNow": "Boka Nu",
+    "meta": {
+      "title": "Tempeltjänster",
+      "description": "Daglig puja, ceremonier, prislista och gemenskapstjänster på Hindu Mandir Stockholm"
+    },
+    "learnMore": "Läs mer"
+  },
+  "gallery": {
+    "title": "Foto- & videogalleri",
+    "subtitle": "Ögonblick från våra tempelaktiviteter, festivaler och evenemang",
+    "photos": "Foton",
+    "videos": "Videor",
+    "noPhotos": "Inga foton tillgängliga ännu. Kolla tillbaka efter nästa evenemang!",
+    "noVideos": "Inga videor tillgängliga ännu.",
+    "albumTemple": "Tempel",
+    "albumEvents": "Evenemang",
+    "albumBoard": "Styrelsen",
+    "albumCommunity": "Gemenskap",
+    "meta": {
+      "title": "Galleri",
+      "description": "Foton och videor från tempelaktiviteter, festivaler och evenemang"
+    }
+  },
+  "membership": {
+    "title": "Medlemskap",
+    "subtitle": "Bli medlem i Hindu Mandir Society Stockholm",
+    "whyJoin": "Varför bli medlem?",
+    "benefit1": "Stöd templet och dess aktiviteter",
+    "benefit2": "Rösträtt vid årsmötet",
+    "benefit3": "Tillgång till medlemsevenemang och program",
+    "benefit4": "Rabatter på puja-bokningar och lokalhyra",
+    "familyMembership": "Familjemedlemskap",
+    "familyPrice": "1 000 SEK/år",
+    "familyDesc": "Inkluderar alla familjemedlemmar och barn under 18",
+    "singleMembership": "Enskilt medlemskap",
+    "singlePrice": "500 SEK/år",
+    "singleDesc": "För enskilda medlemmar",
+    "membershipYear": "Medlemsår: januari – december",
+    "paymentMethods": "Betalningsmetoder",
+    "swish": "Swish: 123 218 02 55",
+    "bankgiro": "Bankgiro: 5079-7737",
+    "recipientName": "HINDU MANDIR SOCIETY I STOCKHOLM",
+    "paymentMessage": "Meddelande: [Fullständigt namn]-{year}Membership",
+    "emailInstructions": "Efter att du blivit medlem, vänligen mejla följande uppgifter till helenalundhindumandir@gmail.com:",
+    "emailSubject": "Ämne: [Fullständigt namn]-{year}Membership",
+    "emailDetail1": "Hemadress",
+    "emailDetail2": "Telefonnummer",
+    "emailDetail3": "E-postadress",
+    "registerTitle": "Registrera som medlem",
+    "firstName": "Förnamn",
+    "lastName": "Efternamn",
+    "email": "E-post",
+    "phone": "Telefonnummer",
+    "address": "Adress",
+    "dateOfBirth": "Födelsedatum",
+    "membershipType": "Medlemstyp",
+    "family": "Familj",
+    "single": "Enskild",
+    "consent": "Jag samtycker till behandlingen av mina personuppgifter, inklusive information relaterad till min religiösa övertygelse, enligt vår integritetspolicy. Jag förstår att dessa uppgifter klassificeras som särskilda kategorier av personuppgifter enligt GDPR artikel 9.",
+    "autoRenewal": "Aktivera automatisk förnyelse",
+    "autoRenewalNote": "Medlemskapet förnyas årligen. Du får en påminnelse när ditt medlemskap ska förnyas.",
+    "paymentInstallmentInfo": "Betalning kan göras i en eller flera delbetalningar",
+    "paymentInstallmentDetails": "Du kan betala hela avgiften på en gång eller dela upp den i flera betalningar under året. Kontakta oss vid frågor.",
+    "register": "Registrera & betala",
+    "successMessage": "Tack för din registrering! Vi behandlar ditt medlemskap inom kort.",
+    "errorMessage": "Registreringen misslyckades. Försök igen.",
+    "meta": {
+      "title": "Bli medlem",
+      "description": "Gå med i Hindu Mandir Society Stockholm — medlemsförmåner, registrering och betalningsinfo"
+    },
+    "recommended": "Rekommenderad"
+  },
+  "donation": {
+    "title": "Donera",
+    "subtitle": "Stöd Hindu Mandir Stockholm med en donation",
+    "description": "Dina generösa donationer hjälper oss att underhålla templet, arrangera evenemang och tjäna gemenskapen. Varje bidrag gör skillnad.",
+    "donationType": "Donationstyp",
+    "oneTime": "Engångsdonation",
+    "monthly": "Månadsdonation",
+    "yearly": "Årsdonation",
+    "recurringNote": "För att göra regelbundna donationer, vänligen ställ in en återkommande betalning via din bank eller Swish-appen.",
+    "amount": "Belopp (SEK)",
+    "customAmount": "Valfritt belopp",
+    "donorInfo": "Donatorsuppgifter",
+    "donorName": "Namn",
+    "anonymous": "Anonym",
+    "donorEmail": "E-post",
+    "donorPhone": "Telefon",
+    "inMemory": "Till minne av",
+    "inHonour": "Till ära av",
+    "optional": "(Valfritt)",
+    "donateNow": "Donera nu",
+    "payVia": "Betala via",
+    "swishNumber": "Swish: 123 218 02 55",
+    "bankgiroNumber": "Bankgiro: 5079-7737",
+    "recipientName": "HINDU MANDIR SOCIETY I STOCKHOLM",
+    "thankYou": "Tack för din generositet!",
+    "successMessage": "Din donation har registrerats. Tack för din generositet!",
+    "errorMessage": "Donationen misslyckades. Försök igen.",
+    "taxDeductible": "Din donation kan vara avdragsgill. Ett kvitto skickas till din e-post för dina uppgifter.",
+    "consentLabel": "Jag samtycker till behandlingen av mina personuppgifter för denna donation enligt vår integritetspolicy",
+    "consentRequired": "Du måste samtycka till databehandling för att fortsätta",
+    "meta": {
+      "title": "Donera",
+      "description": "Stöd Hindu Mandir Stockholm med en donation — Swish, Bankgiro och onlinealternativ"
+    },
+    "qrCode": "QR-kod"
+  },
+  "contact": {
+    "title": "Kontakta oss",
+    "subtitle": "Vi vill gärna höra från dig",
+    "visitUs": "Besök oss",
+    "address": "Åkervägen 1, 191 40 Helenelund, Stockholm",
+    "callUs": "Ring oss",
+    "phone": "08-35 72 22",
+    "emailUs": "Mejla oss",
+    "email": "helenalundhindumandir@gmail.com",
+    "openingHours": "Öppettider",
+    "weekdays": "Måndag – lördag: 07:00–09:00 & 17:00–19:00",
+    "weekends": "Söndag: 11:00–16:00",
+    "sendMessage": "Skicka ett meddelande",
+    "name": "Ditt namn",
+    "subject": "Ämne",
+    "message": "Meddelande",
+    "send": "Skicka meddelande",
+    "successMessage": "Tack! Vi återkommer till dig snart.",
+    "errorMessage": "Meddelandet kunde inte skickas. Försök igen.",
+    "captchaLabel": "Vad är {num1} + {num2}?",
+    "captchaError": "Felaktigt svar, försök igen",
+    "rateLimited": "För många inskickningar. Försök igen senare.",
+    "timeoutError": "Anslutningen tog för lång tid. Försök igen.",
+    "retrying": "Försöker igen...",
+    "consentLabel": "Jag samtycker till behandlingen av mina personuppgifter enligt vår integritetspolicy.",
+    "consentRequired": "Du måste samtycka till databehandling för att fortsätta",
+    "meta": {
+      "title": "Kontakta oss",
+      "description": "Kontakta Hindu Mandir Stockholm — adress, telefon, e-post och öppettider"
+    }
+  },
+  "history": {
+    "title": "Vår historia",
+    "subtitle": "Hindu Mandir Society Stockholms resa",
+    "intro": "Hindu Mandir Society Stockholm grundades 1980 för att tjäna den indo-svenska gemenskapen. Som en religiös ideell förening syftar den till att möta de andliga, rituella, ceremoniella och sociala behoven hos hinduer i Stockholmsregionen. Sedan tempelinvigningen i september 1998 har det varit hjärtat av den hinduiska gemenskapen i Sverige.",
+    "timeline": "Tidslinje",
+    "photoGalleryTitle": "Vårt tempel i bilder",
+    "meta": {
+      "title": "Vår historia",
+      "description": "Hindu Mandir Society Stockholms historia — från 1980 till idag"
+    }
+  },
+  "board": {
+    "title": "Mandir Samiti 2025/26",
+    "subtitle": "Den valda styrelsen för Hindu Mandir Society Stockholm",
+    "president": "Ordförande",
+    "vicePresident": "Vice ordförande",
+    "financeSecretary": "Ekonomisekreterare",
+    "informationSecretary": "Informationssekreterare",
+    "propertySecretary": "Fastighetssekreterare",
+    "festivalSecretary": "Festivalsekreterare",
+    "cultureSecretary": "Kultursekreterare",
+    "internalAuditor": "Internrevisor",
+    "deputyAuditor": "Biträdande revisor",
+    "electionCommittee": "Valkommitté",
+    "member": "Styrelseledamot",
+    "meta": {
+      "title": "Styrelsemedlemmar",
+      "description": "Möt den valda styrelsen för Hindu Mandir Society Stockholm (Mandir Samiti)"
+    },
+    "_termNote": "UPPDATERA ÅRLIGEN: Ändra årtalet när en ny styrelse väljs"
+  },
+  "documents": {
+    "title": "Dokument",
+    "subtitle": "Officiella dokument för Hindu Mandir Society Stockholm",
+    "stadgar": "Stadgar",
+    "annualReport": "Årsredovisning",
+    "financialStatement": "Bokslut",
+    "meetingProtocols": "Mötesprotokoll",
+    "newsletters": "Nyhetsbrev",
+    "download": "Ladda ner PDF",
+    "comingSoon": "Kommer snart",
+    "noDocuments": "Inga dokument hittades.",
+    "documentsEmptyState": "Dokument kommer att finnas tillgängliga här när de har laddats upp av tempeladministrationen.",
+    "searchPlaceholder": "Sök...",
+    "meta": {
+      "title": "Dokument",
+      "description": "Officiella dokument för Hindu Mandir Society Stockholm — stadgar, rapporter och protokoll"
+    }
+  },
+  "bhandara": {
+    "title": "Bhandara-bokning",
+    "subtitle": "Boka en gemensam måltid (Bhandara) vid templet",
+    "whatIsBhandara": "Vad är Bhandara?",
+    "description": "Bhandara är en tradition att erbjuda mat till gemenskapen. Du kan sponsra en Bhandara för ett speciellt tillfälle, till minne av en nära och kär, eller helt enkelt för att tjäna gemenskapen.",
+    "minimumFee": "Minimiavgift",
+    "feeNote": "Du kan bidra med mer än minimibeloppet",
+    "selectDate": "Välj datum",
+    "occasion": "Tillfälle",
+    "occasionPlaceholder": "t.ex. Till minne av..., Födelsedagsfirande, etc.",
+    "numberOfGuests": "Förväntat antal gäster",
+    "specialRequirements": "Speciella önskemål",
+    "additionalDonation": "Extra donation (valfritt)",
+    "totalAmount": "Totalt belopp",
+    "name": "Ditt namn",
+    "email": "E-post",
+    "phone": "Telefon",
+    "book": "Boka Bhandara",
+    "successMessage": "Din Bhandara-bokning har skickats! Vi kontaktar dig för bekräftelse.",
+    "errorMessage": "Bokningen misslyckades. Försök igen.",
+    "consentLabel": "Jag samtycker till behandlingen av mina personuppgifter för denna bhandara-bokning enligt vår integritetspolicy",
+    "consentRequired": "Du måste samtycka till databehandling för att fortsätta",
+    "step1Label": "Detaljer",
+    "step2Label": "Preferenser",
+    "step3Label": "Bekräfta",
+    "step1Heading": "Steg 1 — Personuppgifter",
+    "step2Heading": "Steg 2 — Preferenser",
+    "step3Heading": "Steg 3 — Bekräfta och skicka",
+    "addToYourCalendar": "Lägg till i din kalender",
+    "addToGoogleCalendar": "Lägg till i Google Kalender",
+    "downloadICS": "Ladda ner .ics",
+    "meta": {
+      "title": "Bhandara-bokning",
+      "description": "Boka en gemensam måltid (Bhandara) på Hindu Mandir Stockholm"
+    }
+  },
+  "liveStream": {
+    "title": "Livestream",
+    "subtitle": "Se tempelceremonier och evenemang live",
+    "noStream": "Ingen livestream är aktiv just nu. Kolla vår evenemangskalender för kommande livestreamade evenemang.",
+    "watchOnYoutube": "Se på YouTube",
+    "watchOnFacebook": "Se på Facebook",
+    "disclaimer": "Genom att titta på livestreamen bekräftar du att religiösa ceremonier sänds. Deltagare som syns i sändningen har informerats.",
+    "meta": {
+      "title": "Livestream",
+      "description": "Se live-darshan och tempelceremonier från Hindu Mandir Stockholm"
+    },
+    "liveNow": "Live nu",
+    "cookieBlocked": "YouTube-videon blockeras av dina cookieinställningar. Uppdatera dina cookieinställningar för att se detta innehåll.",
+    "updateCookies": "Uppdatera cookieinställningar"
+  },
+  "newsletter": {
+    "title": "Nyhetsbrev",
+    "subtitle": "Håll dig uppdaterad med nyheter från Hindu Mandir Stockholm",
+    "subscribe": "Prenumerera på vårt nyhetsbrev",
+    "emailPlaceholder": "Ange din e-postadress",
+    "subscribeButton": "Prenumerera",
+    "archive": "Nyhetsbrevarkiv",
+    "noNewsletters": "Inga nyhetsbrev publicerade ännu.",
+    "consentNote": "Vi skickar bara nyhetsbrev till din e-post. Du kan avsluta prenumerationen när som helst.",
+    "consentLabel": "Jag samtycker till att ta emot nyhetsbrev och behandlingen av min e-post enligt vår integritetspolicy",
+    "consentRequired": "Du måste samtycka till databehandling för att prenumerera",
+    "successMessage": "Du har prenumererat på vårt nyhetsbrev!",
+    "errorMessage": "Prenumerationen misslyckades. Försök igen.",
+    "loadMore": "Visa fler",
+    "showing": "Visar",
+    "of": "av",
+    "unsubscribeTitle": "Avsluta prenumeration",
+    "unsubscribeSubtitle": "Vi är ledsna att se dig gå. Ange din e-post för att avsluta prenumerationen.",
+    "unsubscribeButton": "Avsluta prenumeration",
+    "unsubscribeSuccess": "Du har avbrutit prenumerationen på vårt nyhetsbrev.",
+    "unsubscribeError": "Det gick inte att avsluta prenumerationen. Försök igen.",
+    "meta": {
+      "title": "Nyhetsbrev",
+      "description": "Prenumerera på Hindu Mandir Stockholms nyhetsbrev för tempelnyheter och uppdateringar"
+    }
+  },
+  "volunteer": {
+    "title": "Volontär",
+    "subtitle": "Hjälp oss att tjäna gemenskapen",
+    "description": "Vi letar alltid efter engagerade volontärer som kan hjälpa till med tempelaktiviteter, evenemang och samhällstjänst. Gå med i vårt volontärteam!",
+    "areas": "Volontärområden",
+    "eventHelp": "Evenemangsorganisation",
+    "eventHelpDesc": "Hjälp till att planera och genomföra festivaler och evenemang",
+    "templeUpkeep": "Tempelunderhåll",
+    "templeUpkeepDesc": "Hjälp till att underhålla templet och dess omgivning",
+    "teaching": "Undervisning & mentorskap",
+    "teachingDesc": "Undervisa i språk, kultur eller religiösa klasser",
+    "administration": "Administration",
+    "administrationDesc": "Hjälp med kontorsarbete, kommunikation eller webbplats",
+    "signUp": "Anmäl dig som volontär",
+    "availability": "Tillgänglighet",
+    "interests": "Intresseområden",
+    "experience": "Relevant erfarenhet",
+    "signUpButton": "Anmäl dig",
+    "successMessage": "Tack för din anmälan! Vi hör av oss.",
+    "errorMessage": "Anmälan misslyckades. Försök igen.",
+    "consentLabel": "Jag samtycker till behandlingen av mina personuppgifter för volontärregistrering enligt vår integritetspolicy",
+    "consentRequired": "Du måste samtycka till databehandling för att fortsätta",
+    "meta": {
+      "title": "Volontär",
+      "description": "Bli volontär på Hindu Mandir Stockholm — evenemang, underhåll, undervisning och mer"
+    },
+    "availabilityPlaceholder": "t.ex. helger, kvällar"
+  },
+  "timeslots": {
+    "title": "Boka Pooja",
+    "subtitle": "Boka en pooja eller tjänst hos Hindu Mandir Stockholm",
+    "selectEvent": "Välj evenemang",
+    "selectEventPrompt": "Välj ett evenemang för att se tillgängliga tider",
+    "noEvents": "Inga aktiva pooja-evenemang",
+    "noEventsDescription": "Det finns inga planerade pooja-evenemang just nu. Nya evenemang läggs till regelbundet — kolla tillbaka snart eller kontakta oss för att boka.",
+    "availableSlots": "Tillgängliga tider",
+    "noSlots": "Inga tidsplatser tillgängliga för detta evenemang",
+    "available": "Tillgänglig",
+    "booked": "Bokad",
+    "book": "Boka",
+    "bookSlot": "Boka tid",
+    "name": "Ditt namn",
+    "phone": "Telefon",
+    "email": "E-post",
+    "confirmBooking": "Bekräfta bokning",
+    "bookingSuccess": "Din bokning har registrerats!",
+    "cancelBooking": "Avboka tid",
+    "cancelEmailPrompt": "Ange e-postadressen du använde för bokningen",
+    "confirmCancel": "Bekräfta avbokning",
+    "cancelNotFound": "Ingen bokning hittades med denna e-postadress",
+    "errorMessage": "Något gick fel. Försök igen.",
+    "calendarTitle": "Kalender",
+    "today": "Idag",
+    "poojasWeOffer": "Poojas vi erbjuder",
+    "pooja1Name": "Ganesh Puja",
+    "pooja1Desc": "Åkalla Lord Ganeshas välsignelser för nya början och borttagande av hinder",
+    "pooja2Name": "Lakshmi Puja",
+    "pooja2Desc": "Sök Gudinna Lakshmis välsignelser för välstånd och välbefinnande",
+    "pooja3Name": "Satyanarayan Katha",
+    "pooja3Desc": "En helig berättande gudstjänst för uppfyllelse och tacksamhet",
+    "pooja4Name": "Havan / Homa",
+    "pooja4Desc": "Vedisk eldritual för rening, hälsa och andlig upplyftning",
+    "pooja5Name": "Navagraha Puja",
+    "pooja5Desc": "Planetarisk puja för fred och harmoni i livet",
+    "pooja6Name": "Anpassad Puja",
+    "pooja6Desc": "Begär en specifik puja eller ceremoni — kontakta oss för detaljer",
+    "requestPooja": "Begär en Pooja",
+    "requestPoojaDesc": "Vill du boka en specifik puja eller ceremoni? Kontakta tempeladministrationen så ordnar vi en tid åt dig.",
+    "contactUs": "Kontakta oss",
+    "templeHours": "Templets öppettider",
+    "templeHoursWeekday": "Mån–lör: 07:00–09:00 & 17:00–19:00",
+    "templeHoursSunday": "Söndag: 11:00–16:00",
+    "checkingEvents": "Söker efter tillgängliga poojas...",
+    "consentLabel": "Jag samtycker till behandlingen av mina personuppgifter, inklusive uppgifter relaterade till religiösa aktiviteter, enligt vår integritetspolicy.",
+    "consentRequired": "Du måste samtycka till databehandling för att fortsätta",
+    "meta": {
+      "title": "Boka Pooja",
+      "description": "Reservera en pooja-tid på Hindu Mandir Stockholm"
+    }
+  },
+  "footer": {
+    "quickLinks": "Snabblänkar",
+    "aboutUs": "Om oss",
+    "contact": "Kontakt",
+    "address": "Adress",
+    "phone": "Telefon",
+    "email": "E-post",
+    "followUs": "Följ oss",
+    "copyright": "© {year} Hindu Mandir Society Stockholm. Alla rättigheter förbehållna.",
+    "privacy": "Integritetspolicy",
+    "cookies": "Cookies",
+    "dataRequest": "Begäran om uppgifter",
+    "cookiePreferences": "Cookieinställningar",
+    "admin": "Admin"
+  },
+  "privacy": {
+    "title": "Integritetspolicy",
+    "lastUpdated": "Senast uppdaterad: februari 2026",
+    "introTitle": "Introduktion",
+    "introText": "Hindu Mandir Society Stockholm (\"vi\", \"oss\" eller \"vår\") är engagerade i att skydda integriteten och personuppgifterna för våra medlemmar, besökare och webbplatsanvändare. Denna integritetspolicy förklarar hur vi samlar in, använder, lagrar och skyddar dina personuppgifter i enlighet med EU:s allmänna dataskyddsförordning (GDPR) och svensk dataskyddslagstiftning.",
+    "controllerTitle": "Personuppgiftsansvarig",
+    "controllerText": "Personuppgiftsansvarig för dina personuppgifter är:",
+    "controllerName": "Hindu Mandir Society Stockholm",
+    "controllerAddress": "Åkervägen 1, 191 40 Helenelund",
+    "controllerEmail": "helenalundhindumandir@gmail.com",
+    "controllerOrgType": "Registrerat trossamfund i Sverige",
+    "dataCollectTitle": "Uppgifter vi samlar in",
+    "dataCollectText": "Vi kan samla in och behandla följande kategorier av personuppgifter:",
+    "dataCollectItem1": "Identitetsuppgifter: förnamn, efternamn, födelsedatum",
+    "dataCollectItem2": "Kontaktuppgifter: e-postadress, telefonnummer, postadress",
+    "dataCollectItem3": "Medlemsuppgifter: medlemstyp, medlemsnummer, betalningshistorik",
+    "dataCollectItem4": "Donationsuppgifter: donationsbelopp, betalningsreferenser, Swish-/Bankgirotransaktioner",
+    "dataCollectItem5": "Evenemangsuppgifter: evenemangsregistreringar, närvaro, volontärdeltagande",
+    "dataCollectItem6": "Kommunikationsuppgifter: meddelanden skickade via vårt kontaktformulär, nyhetsbrevsprenumerationer",
+    "dataCollectItem7": "Tekniska uppgifter: IP-adress, webbläsartyp, enhetsinformation (samlas in automatiskt när du besöker vår webbplats)",
+    "dataCollectItem8": "Religiös tillhörighet: som trossamfund kan vi behandla uppgifter som avslöjar din religiösa övertygelse i samband med ditt medlemskap eller deltagande i religiösa aktiviteter",
+    "legalBasisTitle": "Rättslig grund för behandling",
+    "legalBasisText": "Vi behandlar dina personuppgifter baserat på följande rättsliga grunder enligt artikel 6 i GDPR:",
+    "legalBasisConsent": "Samtycke (art. 6.1 a): När du prenumererar på vårt nyhetsbrev, skickar ett kontaktformulär eller ger uttryckligt samtycke för specifika behandlingsaktiviteter.",
+    "legalBasisContract": "Avtal (art. 6.1 b): När behandlingen är nödvändig för att fullgöra ditt medlemsavtal eller för att behandla en donation eller bhandara-bokning som du har begärt.",
+    "legalBasisLegal": "Rättslig förpliktelse (art. 6.1 c): När vi är skyldiga att behålla ekonomiska handlingar enligt svensk bokföringslag.",
+    "legalBasisLegitimate": "Berättigat intresse (art. 6.1 f): För administration av vår organisation, kommunikation med medlemmar och upprätthållande av säkerheten på vår webbplats.",
+    "specialCategoryTitle": "Behandling av känsliga personuppgifter (artikel 9)",
+    "specialCategoryText": "Som registrerat trossamfund kan vi behandla uppgifter som avslöjar religiös övertygelse. Denna behandling är tillåten enligt artikel 9.2 d i GDPR, som tillåter behandling av en ideell organisation med religiöst syfte, förutsatt att behandlingen enbart avser medlemmar eller tidigare medlemmar i organisationen, eller personer som har regelbunden kontakt med den i samband med dess ändamål, och att personuppgifterna inte lämnas ut utanför organisationen utan de registrerades samtycke.",
+    "useTitle": "Hur vi använder dina uppgifter",
+    "useText": "Vi använder dina personuppgifter för följande ändamål:",
+    "useItem1": "Hantera ditt tempelmedlemskap och kommunicera medlemskapsrelaterad information",
+    "useItem2": "Behandla donationer och utfärda kvitton",
+    "useItem3": "Organisera och hantera evenemang, festivaler och religiösa ceremonier",
+    "useItem4": "Hantera bhandara-bokningar och gemensamma måltider",
+    "useItem5": "Skicka nyhetsbrev och tempeluppdateringar (bara med ditt samtycke)",
+    "useItem6": "Svara på dina förfrågningar via kontaktformuläret",
+    "useItem7": "Samordna volontäraktiviteter",
+    "useItem8": "Underhålla och förbättra vår webbplats",
+    "useItem9": "Uppfylla rättsliga och regulatoriska skyldigheter",
+    "sharingTitle": "Delning av uppgifter",
+    "sharingText": "Vi säljer, handlar eller hyr inte ut dina personuppgifter till tredje part. Vi kan dela dina uppgifter i följande begränsade situationer:",
+    "sharingItem1": "Tjänsteleverantörer: Vi använder Firebase (Google Cloud) för att driva vår webbplats och lagra data. Google behandlar data i enlighet med deras databehandlingsvillkor och GDPR-krav.",
+    "sharingItem2": "Betaltjänstleverantörer: När du betalar via Swish eller Bankgiro behandlas dina transaktionsuppgifter av respektive betaltjänstleverantör.",
+    "sharingItem3": "Felspårning: Vi använder Sentry (Functional Software, Inc.) för felövervakning och prestandaspårning. Sentry kan ta emot tekniska uppgifter som IP-adresser, webbläsarinformation och feldetaljer för att hjälpa oss identifiera och åtgärda problem. Sentry behandlar data i enlighet med sin integritetspolicy och GDPR-krav.",
+    "sharingItem4": "Rättsliga krav: Vi kan lämna ut dina uppgifter om det krävs enligt lag, till exempel till Skatteverket för ekonomisk rapportering.",
+    "retentionTitle": "Lagringstid",
+    "retentionText": "Vi behåller dina personuppgifter bara så länge som det är nödvändigt för de ändamål som beskrivs i denna policy:",
+    "retentionItem1": "Medlemsuppgifter: Sparas under medlemskapets varaktighet och upp till 2 år efter att medlemskapet upphört, för att möjliggöra omregistrering.",
+    "retentionItem2": "Ekonomiska handlingar (donationer, betalningar): Sparas i 7 år enligt kraven i svensk bokföringslag (7 kap. 2 §).",
+    "retentionItem3": "Kontaktformulärmeddelanden: Sparas i upp till 1 år efter att ärendet har lösts.",
+    "retentionItem4": "Nyhetsbrevsprenumerationer: Sparas tills du avslutar prenumerationen.",
+    "retentionItem5": "Evenemangsregistreringar: Sparas i upp till 1 år efter evenemanget.",
+    "retentionItem6": "Tekniska webbplatsuppgifter: Sparas i upp till 12 månader.",
+    "rightsTitle": "Dina rättigheter",
+    "rightsText": "Enligt GDPR har du följande rättigheter gällande dina personuppgifter:",
+    "rightsAccess": "Rätt till tillgång: Du har rätt att begära en kopia av de personuppgifter vi har om dig.",
+    "rightsRectification": "Rätt till rättelse: Du har rätt att begära att vi rättar eventuella felaktiga personuppgifter.",
+    "rightsErasure": "Rätt till radering: Du har rätt att begära att vi raderar dina personuppgifter, med förbehåll för lagstadgade lagringsskyldigheter.",
+    "rightsRestriction": "Rätt till begränsning: Du har rätt att begära att vi begränsar behandlingen av dina personuppgifter under vissa omständigheter.",
+    "rightsPortability": "Rätt till dataportabilitet: Du har rätt att få dina personuppgifter i ett strukturerat, allmänt använt och maskinläsbart format.",
+    "rightsObjection": "Rätt att göra invändningar: Du har rätt att invända mot behandling av dina personuppgifter som grundar sig på berättigat intresse.",
+    "rightsWithdraw": "Rätt att återkalla samtycke: Om behandlingen grundar sig på samtycke kan du när som helst återkalla ditt samtycke utan att det påverkar lagligheten av behandling som utförts innan återkallelsen.",
+    "rightsExercise": "För att utöva någon av dessa rättigheter, vänligen kontakta oss på helenalundhindumandir@gmail.com. Vi svarar på din begäran inom 30 dagar.",
+    "childrenTitle": "Barns uppgifter",
+    "childrenText": "Vi samlar inte medvetet in personuppgifter från barn under 13 år utan vårdnadshavares samtycke, i enlighet med svensk lag. Familjemedlemskap inkluderar barn under 18 år, men medlemskapsregistreringen görs av en förälder eller vårdnadshavare. Om du tror att vi har samlat in uppgifter om ett barn under 13 år utan lämpligt samtycke, vänligen kontakta oss omedelbart så att vi kan vidta åtgärder.",
+    "cookiesTitle": "Cookies",
+    "cookiesText": "Vår webbplats använder cookies för att säkerställa korrekt funktionalitet. För detaljerad information om de cookies vi använder och hur du hanterar dem, se vår cookiepolicy.",
+    "cookiesLink": "Se vår cookiepolicy",
+    "contactTitle": "Kontakt för dataskyddsfrågor",
+    "contactText": "Om du har frågor om denna integritetspolicy, vill utöva dina dataskyddsrättigheter eller har ett klagomål om hur vi hanterar dina personuppgifter, vänligen kontakta oss:",
+    "contactEmail": "E-post: helenalundhindumandir@gmail.com",
+    "contactAddress": "Post: Hindu Mandir Society Stockholm, Åkervägen 1, 191 40 Helenelund",
+    "supervisoryText": "Du har också rätt att lämna in ett klagomål till Integritetsskyddsmyndigheten (IMY) om du anser att dina dataskyddsrättigheter har kränkts.",
+    "supervisoryLink": "Besök IMY: www.imy.se",
+    "changesTitle": "Ändringar i denna policy",
+    "changesText": "Vi kan uppdatera denna integritetspolicy från tid till annan. Eventuella ändringar publiceras på denna sida med ett uppdaterat revisionsdatum. Vi uppmuntrar dig att regelbundet granska denna sida.",
+    "meta": {
+      "title": "Integritetspolicy",
+      "description": "Hur Hindu Mandir Stockholm hanterar dina personuppgifter — GDPR-efterlevnad"
+    }
+  },
+  "cookiePolicy": {
+    "title": "Cookiepolicy",
+    "lastUpdated": "Senast uppdaterad: februari 2026",
+    "introTitle": "Vad är cookies",
+    "introText": "Cookies är små textfiler som lagras på din enhet (dator, surfplatta eller mobiltelefon) när du besöker en webbplats. De används allmänt för att få webbplatser att fungera bättre och för att ge information till webbplatsägare.",
+    "whatWeUseTitle": "Cookies vi använder",
+    "whatWeUseText": "Vi strävar efter att använda så få cookies som möjligt. För närvarande använder vår webbplats följande typer av cookies:",
+    "essentialTitle": "Nödvändiga cookies",
+    "essentialText": "Dessa cookies är nödvändiga för att webbplatsen ska fungera korrekt. De inkluderar:",
+    "essentialItem1": "Cookie-samtyckespreferens: Lagrar ditt val gällande cookies så att vi inte frågar dig upprepade gånger. (Nyckel: cookie-consent, Varaktighet: 1 år)",
+    "essentialItem2": "Språkpreferens: Kommer ihåg ditt språkval (svenska eller engelska).",
+    "analyticsTitle": "Analys",
+    "analyticsText": "Vi använder Vercel Analytics för att förstå hur besökare använder vår webbplats. Vercel Analytics är integritetsvänligt och använder inte cookies för spårning. Det samlar in anonymiserad användningsdata för att hjälpa oss förbättra webbplatsen. Ingen personlig information samlas in eller delas med tredje parter.",
+    "thirdPartyTitle": "Tredjepartscookies",
+    "thirdPartyText": "Vår webbplats kan bädda in innehåll från tredjepartstjänster (som YouTube för livestreaming). Dessa tjänster kan sätta sina egna cookies. Vi har ingen kontroll över tredjepartscookies och rekommenderar att du granskar deras respektive cookiepolicyer.",
+    "manageTitle": "Hur du hanterar cookies",
+    "manageText": "Du kan hantera eller radera cookies via din webbläsares inställningar. Så här hanterar du cookies i vanliga webbläsare:",
+    "manageChrome": "Chrome: Inställningar > Sekretess och säkerhet > Cookies och annan webbplatsdata",
+    "manageFirefox": "Firefox: Inställningar > Sekretess & säkerhet > Cookies och webbplatsdata",
+    "manageSafari": "Safari: Inställningar > Integritet > Hantera webbplatsdata",
+    "manageEdge": "Edge: Inställningar > Cookies och webbplatsbehörigheter > Cookies och webbplatsdata",
+    "manageNote": "Observera att inaktivering av nödvändiga cookies kan påverka webbplatsens funktionalitet.",
+    "consentTitle": "Ditt samtycke",
+    "consentText": "När du först besöker vår webbplats visas en banner för cookie-samtycke. Du kan välja att acceptera alla cookies eller använda bara nödvändiga cookies. Du kan ändra ditt val när som helst genom att rensa webbläsarens cookies och besöka webbplatsen igen.",
+    "contactTitle": "Kontakt",
+    "contactText": "Om du har frågor om vår användning av cookies, vänligen kontakta oss på helenalundhindumandir@gmail.com.",
+    "changesTitle": "Ändringar i denna policy",
+    "changesText": "Vi kan uppdatera denna cookiepolicy från tid till annan. Eventuella ändringar publiceras på denna sida med ett uppdaterat revisionsdatum.",
+    "meta": {
+      "title": "Cookiepolicy",
+      "description": "Information om cookies som används på Hindu Mandir Stockholms webbplats"
+    }
+  },
+  "cookieConsent": {
+    "message": "Vi använder cookies för att säkerställa att vår webbplats fungerar korrekt och för att förbättra din upplevelse.",
+    "accept": "Acceptera alla",
+    "essentialOnly": "Bara nödvändiga",
+    "learnMore": "Cookiepolicy"
+  },
+  "dataRequest": {
+    "title": "Begäran om personuppgifter",
+    "subtitle": "Utöva dina GDPR-rättigheter",
+    "intro": "Enligt GDPR har du rätt att begära en kopia av dina personuppgifter eller begära att vi raderar dina uppgifter. Använd formuläret nedan för att skicka in din begäran. Vi behandlar din förfrågan inom 30 dagar.",
+    "nameLabel": "Fullständigt namn",
+    "namePlaceholder": "Ditt fullständiga namn",
+    "emailLabel": "E-postadress",
+    "emailPlaceholder": "din@epost.se",
+    "requestTypeLabel": "Typ av begäran",
+    "exportDataTitle": "Exportera mina uppgifter",
+    "exportDataDesc": "Få en kopia av alla personuppgifter vi har om dig i ett maskinläsbart format.",
+    "deleteDataTitle": "Radera mina uppgifter",
+    "deleteDataDesc": "Begär att vi raderar alla dina personuppgifter från våra system (med förbehåll för lagstadgade lagringskrav).",
+    "messageLabel": "Ytterligare information (valfritt)",
+    "messagePlaceholder": "Beskriv din begäran eller inkludera ytterligare detaljer...",
+    "submitButton": "Skicka begäran",
+    "submitting": "Skickar...",
+    "nextStep": "Fortsätt till verifiering",
+    "confirmTitle": "Bekräfta din begäran",
+    "confirmDescription": "Du begär \"{type}\" för {email}. Bekräfta att detta är din e-postadress genom att skriva den igen nedan.",
+    "confirmEmailLabel": "Bekräfta din e-postadress",
+    "confirmEmailPlaceholder": "Skriv din e-postadress igen",
+    "confirmEmailMismatch": "E-postadresserna matchar inte. Försök igen.",
+    "confirmBack": "Gå tillbaka",
+    "confirmSubmit": "Bekräfta och skicka",
+    "captchaLabel": "Verifiera att du är människa",
+    "captchaError": "Felaktigt svar. Försök igen.",
+    "rateLimited": "Du har skickat för många begäranden under denna session. Försök igen senare.",
+    "successTitle": "Begäran mottagen",
+    "successMessage": "Din begäran har registrerats. Vi behandlar din förfrågan och kontaktar dig inom 30 dagar enligt GDPR.",
+    "submitAnother": "Skicka en ny begäran",
+    "processingNotice": "Vi behandlar alla förfrågningar inom 30 dagar enligt GDPR. Du får ett mejl från oss med bekräftelse och ytterligare instruktioner.",
+    "meta": {
+      "title": "Begäran om personuppgifter",
+      "description": "Skicka en GDPR-begäran — exportera eller radera dina personuppgifter från Hindu Mandir Stockholm"
+    }
+  },
+  "unsubscribe": {
+    "title": "Avsluta prenumeration",
+    "subtitle": "Avsluta nyhetsbrevsprenumeration",
+    "intro": "Vi är ledsna att du lämnar oss! Ange din e-postadress nedan för att avsluta prenumerationen på vårt nyhetsbrev.",
+    "emailLabel": "E-postadress",
+    "emailPlaceholder": "din@epost.se",
+    "confirmButton": "Avsluta prenumeration",
+    "submitting": "Avregistrerar...",
+    "successTitle": "Prenumeration avslutad",
+    "successMessage": "Du har avregistrerats från vårt nyhetsbrev. Du kommer inte att få fler nyhetsbrev från oss.",
+    "notFoundMessage": "Denna e-postadress finns inte i vår prenumerationslista.",
+    "meta": {
+      "title": "Avsluta prenumeration",
+      "description": "Avsluta prenumerationen på Hindu Mandir Stockholms nyhetsbrev"
+    }
+  },
+  "feedback": {
+    "title": "Feedback",
+    "subtitle": "Vi uppskattar din feedback — hjälp oss att förbättras",
+    "name": "Namn",
+    "email": "E-post",
+    "type": "Typ av feedback",
+    "typeSuggestion": "Förslag",
+    "typeBug": "Felrapport",
+    "typeCompliment": "Komplimang",
+    "typeOther": "Övrigt",
+    "message": "Ditt meddelande",
+    "rating": "Betyg (valfritt)",
+    "submit": "Skicka feedback",
+    "successMessage": "Tack för din feedback! Vi uppskattar att du tar dig tid att hjälpa oss förbättras.",
+    "errorMessage": "Det gick inte att skicka feedback. Försök igen.",
+    "rateLimited": "Du har skickat för många feedback-formulär nyligen. Försök igen senare.",
+    "captchaLabel": "Verifiera att du är människa",
+    "captchaError": "Felaktigt svar. Försök igen.",
+    "consentLabel": "Jag samtycker till behandlingen av mina personuppgifter enligt vår integritetspolicy.",
+    "consentRequired": "Du måste samtycka till databehandling för att fortsätta",
+    "meta": {
+      "title": "Feedback",
+      "description": "Dela din feedback med Hindu Mandir Stockholm — förslag, felrapporter och komplimanger"
+    }
+  },
+  "accessibility": {
+    "skipToContent": "Hoppa till huvudinnehåll"
+  },
+  "admin": {
+    "breadcrumb": "Admin",
+    "sidebar": {
+      "brand": "Admin",
+      "dashboard": "Instrumentpanel",
+      "members": "Medlemmar",
+      "events": "Evenemang",
+      "donations": "Donationer",
+      "messages": "Meddelanden",
+      "bhandara": "Bhandara",
+      "gallery": "Galleri",
+      "newsletter": "Nyhetsbrev",
+      "volunteers": "Volontärer",
+      "timeslots": "Tidsbokning",
+      "dataRequests": "Dataförfrågningar",
+      "users": "Användare",
+      "settings": "Inställningar"
+    },
+    "layout": {
+      "loading": "Laddar...",
+      "signOut": "Logga ut",
+      "viewSite": "Visa webbplats",
+      "title": "Hindu Mandir Admin",
+      "closeSidebar": "Stäng sidofält",
+      "openSidebar": "Öppna sidofält"
+    },
+    "dashboard": {
+      "title": "Instrumentpanel",
+      "stats": {
+        "totalMembers": "Totalt medlemmar",
+        "pendingMembers": "Väntande medlemmar",
+        "unreadMessages": "Olästa meddelanden",
+        "upcomingEvents": "Kommande evenemang",
+        "newsletterSubscribers": "Nyhetsbrevsprenumeranter"
+      },
+      "quickActions": {
+        "title": "Snabbåtgärder",
+        "viewMembers": "Visa medlemmar",
+        "viewMessages": "Visa meddelanden"
+      },
+      "recentActivity": {
+        "title": "Senaste aktivitet",
+        "noActivity": "Ingen senaste aktivitet",
+        "hint": "Aktivitet från de senaste 50 adminåtgärderna",
+        "actions": {
+          "login": "Loggade in",
+          "logout": "Loggade ut",
+          "create": "Skapade",
+          "update": "Uppdaterade",
+          "delete": "Raderade",
+          "export": "Exporterade",
+          "settings": "Inställningar ändrade"
+        },
+        "time": {
+          "justNow": "just nu",
+          "minutesAgo": "{count}m sedan",
+          "hoursAgo": "{count}t sedan",
+          "daysAgo": "{count}d sedan"
+        }
+      }
+    },
+    "members": {
+      "title": "Medlemmar",
+      "search": "Sök medlemmar...",
+      "exportCsv": "Exportera CSV",
+      "addMember": "Lägg till medlem",
+      "noMembers": "Inga medlemmar hittades",
+      "table": {
+        "name": "Namn",
+        "email": "E-post",
+        "type": "Typ",
+        "years": "År",
+        "status": "Status",
+        "date": "Datum",
+        "actions": "Åtgärder"
+      },
+      "details": {
+        "phone": "Telefon",
+        "autoRenewal": "Automatisk förnyelse",
+        "memberSince": "Medlem sedan",
+        "activeYears": "Aktiva år",
+        "paymentHistory": "Betalningshistorik"
+      },
+      "status": {
+        "active": "Aktiv",
+        "pending": "Väntande",
+        "expired": "Utgången"
+      },
+      "type": {
+        "individual": "Individuell",
+        "family": "Familj",
+        "student": "Student"
+      },
+      "payment": {
+        "title": "Registrera betalning",
+        "amount": "Belopp (SEK)",
+        "method": "Betalningsmetod",
+        "receipt": "Kvittonummer",
+        "notes": "Anteckningar",
+        "submit": "Registrera betalning",
+        "methods": {
+          "swish": "Swish",
+          "bankgiro": "Bankgiro",
+          "card": "Kort",
+          "cash": "Kontant"
+        }
+      },
+      "notifications": {
+        "paymentSuccess": "Betalning registrerad",
+        "paymentError": "Kunde inte registrera betalning",
+        "exportSuccess": "CSV exporterad",
+        "exportError": "Kunde inte exportera CSV"
+      }
+    },
+    "events": {
+      "title": "Evenemang",
+      "addEvent": "Lägg till evenemang",
+      "noEvents": "Inga evenemang hittades",
+      "form": {
+        "title": "Titel",
+        "location": "Plats",
+        "description": "Beskrivning",
+        "date": "Datum",
+        "category": "Kategori",
+        "save": "Spara evenemang",
+        "cancel": "Avbryt",
+        "edit": "Redigera",
+        "update": "Uppdatera evenemang"
+      },
+      "selectCategory": "Välj kategori",
+      "eventsCount": "{count} evenemang",
+      "categories": {
+        "puja": "Puja",
+        "festival": "Festival",
+        "cultural": "Kulturellt"
+      },
+      "card": {
+        "rsvpCount": "{count} anmälningar",
+        "noRsvps": "Inga anmälningar ännu",
+        "edit": "Redigera",
+        "delete": "Radera"
+      },
+      "deleteConfirm": {
+        "title": "Radera evenemang",
+        "message": "Är du säker på att du vill radera detta evenemang? Denna åtgärd kan inte ångras.",
+        "confirm": "Radera",
+        "cancel": "Avbryt"
+      },
+      "notifications": {
+        "createSuccess": "Evenemang skapat",
+        "createError": "Kunde inte skapa evenemang",
+        "updateSuccess": "Evenemang uppdaterat",
+        "updateError": "Kunde inte uppdatera evenemang",
+        "deleteSuccess": "Evenemang raderat",
+        "deleteError": "Kunde inte radera evenemang"
+      }
+    },
+    "donations": {
+      "title": "Donationer",
+      "stats": {
+        "totalDonations": "Totala donationer",
+        "completed": "Genomförda",
+        "pending": "Väntande",
+        "thisMonth": "Denna månad",
+        "monthComparison": "jämfört med förra månaden",
+        "awaitingConfirmation": "Väntar på bekräftelse"
+      },
+      "table": {
+        "amount": "Belopp",
+        "donor": "Givare",
+        "type": "Typ",
+        "date": "Datum",
+        "status": "Status",
+        "actions": "Åtgärder"
+      },
+      "details": {
+        "title": "Donationsdetaljer",
+        "donorEmail": "Givarens e-post",
+        "donorPhone": "Givarens telefon",
+        "paymentMethod": "Betalningsmetod",
+        "inMemoryOf": "Till minne av",
+        "inHonourOf": "Till ära av"
+      },
+      "status": {
+        "completed": "Genomförd",
+        "pending": "Väntande",
+        "failed": "Misslyckad"
+      },
+      "actions": {
+        "markReceived": "Markera som mottagen",
+        "viewDetails": "Visa detaljer"
+      },
+      "notifications": {
+        "updateSuccess": "Donation uppdaterad",
+        "updateError": "Kunde inte uppdatera donation"
+      }
+    },
+    "messages": {
+      "title": "Kontaktmeddelanden",
+      "totalCount": "Totalt: {count}",
+      "unreadCount": "Olästa: {count}",
+      "noMessages": "Inga meddelanden hittades",
+      "table": {
+        "name": "Namn",
+        "email": "E-post",
+        "subject": "Ämne",
+        "date": "Datum",
+        "read": "Läst",
+        "actions": "Åtgärder"
+      },
+      "status": {
+        "read": "Läst",
+        "unread": "Oläst"
+      },
+      "actions": {
+        "markRead": "Markera som läst",
+        "markUnread": "Markera som oläst",
+        "viewFull": "Fullständigt meddelande",
+        "delete": "Radera"
+      },
+      "notifications": {
+        "markSuccess": "Meddelande markerat som läst",
+        "markError": "Kunde inte uppdatera meddelande"
+      }
+    },
+    "bhandara": {
+      "title": "Bhandara-bokningar",
+      "stats": {
+        "totalBookings": "Totala bokningar",
+        "pending": "Väntande",
+        "confirmed": "Bekräftade",
+        "totalRevenue": "Total intäkt"
+      },
+      "filter": {
+        "all": "Alla",
+        "pending": "Väntande",
+        "confirmed": "Bekräftade",
+        "cancelled": "Avbokade"
+      },
+      "table": {
+        "name": "Namn",
+        "date": "Datum",
+        "occasion": "Tillfälle",
+        "guests": "Gäster",
+        "amount": "Belopp",
+        "status": "Status",
+        "actions": "Åtgärder"
+      },
+      "filterLabel": "Filtrera efter status",
+      "details": {
+        "title": "Bokningsdetaljer",
+        "name": "Namn",
+        "email": "E-post",
+        "phone": "Telefon",
+        "date": "Datum",
+        "occasion": "Tillfälle",
+        "numberOfGuests": "Antal gäster",
+        "amount": "Belopp",
+        "status": "Status",
+        "bookedAt": "Bokad",
+        "toggleDetails": "Visa/dölj detaljer",
+        "specialRequirements": "Särskilda krav",
+        "specialRequests": "Särskilda önskemål",
+        "dietaryNeeds": "Kostbehov"
+      },
+      "status": {
+        "pending": "Väntande",
+        "confirmed": "Bekräftad",
+        "cancelled": "Avbokad"
+      },
+      "actions": {
+        "confirm": "Bekräfta",
+        "cancel": "Avboka",
+        "viewDetails": "Visa detaljer"
+      },
+      "notifications": {
+        "confirmSuccess": "Bokning bekräftad",
+        "confirmError": "Kunde inte bekräfta bokning",
+        "cancelSuccess": "Bokning avbokad",
+        "cancelError": "Kunde inte avboka bokning"
+      }
+    },
+    "newsletter": {
+      "title": "Nyhetsbrevhantering",
+      "tabs": {
+        "subscribers": "Prenumeranter",
+        "issues": "Nyhetsbrevsnummer"
+      },
+      "subscribers": {
+        "title": "Prenumeranter",
+        "noSubscribers": "Inga prenumeranter hittades",
+        "table": {
+          "email": "E-post",
+          "subscribedDate": "Prenumerationsdatum",
+          "active": "Aktiv",
+          "actions": "Åtgärder"
+        },
+        "actions": {
+          "activate": "Aktivera",
+          "deactivate": "Inaktivera"
+        }
+      },
+      "issues": {
+        "title": "Nyhetsbrevsnummer",
+        "addIssue": "Lägg till nummer",
+        "noIssues": "Inga nyhetsbrevsnummer hittades",
+        "form": {
+          "title": "Titel",
+          "description": "Beskrivning",
+          "pdfUpload": "Ladda upp PDF",
+          "save": "Spara nummer",
+          "cancel": "Avbryt"
+        },
+        "actions": {
+          "delete": "Radera",
+          "download": "Ladda ner PDF"
+        }
+      },
+      "notifications": {
+        "subscriberUpdateSuccess": "Prenumerant uppdaterad",
+        "subscriberUpdateError": "Kunde inte uppdatera prenumerant",
+        "issueCreateSuccess": "Nyhetsbrevsnummer skapat",
+        "issueCreateError": "Kunde inte skapa nummer",
+        "issueDeleteSuccess": "Nyhetsbrevsnummer raderat",
+        "issueDeleteError": "Kunde inte radera nummer"
+      }
+    },
+    "volunteers": {
+      "title": "Volontärer",
+      "noVolunteers": "Inga volontärer hittades",
+      "filter": {
+        "all": "Alla",
+        "pending": "Väntande",
+        "accepted": "Godkända",
+        "rejected": "Avvisade"
+      },
+      "table": {
+        "name": "Namn",
+        "email": "E-post",
+        "phone": "Telefon",
+        "availability": "Tillgänglighet",
+        "interests": "Intressen",
+        "status": "Status",
+        "date": "Datum",
+        "actions": "Åtgärder"
+      },
+      "status": {
+        "pending": "Väntande",
+        "accepted": "Godkänd",
+        "rejected": "Avvisad"
+      },
+      "actions": {
+        "accept": "Godkänn",
+        "reject": "Avvisa",
+        "reset": "Återställ"
+      },
+      "rejectConfirm": {
+        "title": "Avvisa volontär",
+        "message": "Är du säker på att du vill avvisa denna volontäransökan?",
+        "confirm": "Avvisa",
+        "cancel": "Avbryt"
+      },
+      "notifications": {
+        "acceptSuccess": "Volontär godkänd",
+        "acceptError": "Kunde inte godkänna volontär",
+        "rejectSuccess": "Volontär avvisad",
+        "rejectError": "Kunde inte avvisa volontär",
+        "resetSuccess": "Volontärstatus återställd",
+        "resetError": "Kunde inte återställa volontär"
+      }
+    },
+    "dataRequests": {
+      "title": "Dataförfrågningar",
+      "subtitle": "GDPR dataexport- och raderingsförfrågningar",
+      "noRequests": "Inga dataförfrågningar hittades",
+      "table": {
+        "date": "Datum",
+        "email": "E-post",
+        "type": "Typ",
+        "message": "Meddelande",
+        "status": "Status",
+        "actions": "Åtgärder"
+      },
+      "type": {
+        "export": "Exportera",
+        "delete": "Radera"
+      },
+      "status": {
+        "pending": "Väntande",
+        "processing": "Bearbetas",
+        "completed": "Slutförd"
+      },
+      "actions": {
+        "startProcessing": "Börja bearbeta",
+        "markComplete": "Markera som slutförd"
+      },
+      "notifications": {
+        "updateSuccess": "Dataförfrågan uppdaterad",
+        "updateError": "Kunde inte uppdatera dataförfrågan"
+      }
+    },
+    "timeslots": {
+      "title": "Tidsbokningshantering",
+      "createEvent": {
+        "title": "Skapa bokningsevenemang",
+        "eventTitle": "Evenemangets titel",
+        "date": "Datum",
+        "description": "Beskrivning",
+        "allowMultiple": "Tillåt flera bokningar per tidslucka",
+        "linkCalendar": "Länka till kalenderevenemang",
+        "submit": "Skapa evenemang"
+      },
+      "events": {
+        "title": "Bokningsevenemang",
+        "noEvents": "Inga bokningsevenemang hittades",
+        "active": "Aktiv",
+        "inactive": "Inaktiv",
+        "toggleActive": "Växla aktiv",
+        "slotsCount": "{count} tidsluckor"
+      },
+      "slots": {
+        "title": "Tidsluckor",
+        "generate": "Generera tidsluckor",
+        "startTime": "Starttid",
+        "endTime": "Sluttid",
+        "interval": "Intervall (minuter)",
+        "generateBtn": "Generera",
+        "noSlots": "Inga tidsluckor ännu",
+        "booked": "Bokad",
+        "available": "Tillgänglig",
+        "book": "Boka",
+        "unbook": "Avboka",
+        "delete": "Radera"
+      },
+      "booking": {
+        "title": "Boka tidslucka",
+        "name": "Namn",
+        "phone": "Telefon",
+        "email": "E-post",
+        "submit": "Boka",
+        "cancel": "Avbryt"
+      },
+      "confirmDelete": {
+        "title": "Radera tidslucka",
+        "message": "Är du säker på att du vill radera denna tidslucka?",
+        "confirm": "Radera",
+        "cancel": "Avbryt"
+      },
+      "notifications": {
+        "eventCreateSuccess": "Bokningsevenemang skapat",
+        "eventCreateError": "Kunde inte skapa evenemang",
+        "slotGenerateSuccess": "Tidsluckor genererade",
+        "slotGenerateError": "Kunde inte generera tidsluckor",
+        "bookSuccess": "Tidslucka bokad",
+        "bookError": "Kunde inte boka tidslucka",
+        "unbookSuccess": "Bokning borttagen",
+        "unbookError": "Kunde inte ta bort bokning",
+        "deleteSuccess": "Tidslucka raderad",
+        "deleteError": "Kunde inte radera tidslucka"
+      }
+    },
+    "gallery": {
+      "title": "Gallerihantering",
+      "tabs": {
+        "photos": "Foton",
+        "videos": "Videor"
+      },
+      "photos": {
+        "title": "Foton",
+        "upload": "Ladda upp foto",
+        "noPhotos": "Inga foton hittades",
+        "form": {
+          "album": "Album",
+          "caption": "Bildtext",
+          "file": "Välj fil",
+          "submit": "Ladda upp"
+        },
+        "albums": {
+          "temple": "Tempel",
+          "events": "Evenemang",
+          "board": "Styrelse",
+          "community": "Gemenskap"
+        },
+        "actions": {
+          "moveUp": "Flytta upp",
+          "moveDown": "Flytta ner",
+          "delete": "Radera"
+        }
+      },
+      "videos": {
+        "title": "Videor",
+        "addVideo": "Lägg till YouTube-video",
+        "noVideos": "Inga videor hittades",
+        "form": {
+          "videoId": "YouTube Video-ID",
+          "title": "Titel",
+          "description": "Beskrivning",
+          "submit": "Lägg till video"
+        },
+        "actions": {
+          "delete": "Radera"
+        }
+      },
+      "notifications": {
+        "photoUploadSuccess": "Foto uppladdat",
+        "photoUploadError": "Kunde inte ladda upp foto",
+        "photoDeleteSuccess": "Foto raderat",
+        "photoDeleteError": "Kunde inte radera foto",
+        "photoReorderSuccess": "Fotoordning uppdaterad",
+        "photoReorderError": "Kunde inte ordna om foto",
+        "videoAddSuccess": "Video tillagd",
+        "videoAddError": "Kunde inte lägga till video",
+        "videoDeleteSuccess": "Video raderad",
+        "videoDeleteError": "Kunde inte radera video"
+      }
+    },
+    "settings": {
+      "title": "Inställningar",
+      "liveStream": {
+        "title": "Livestream-konfiguration",
+        "videoId": "YouTube Video-ID",
+        "streamTitle": "Streamtitel",
+        "isLive": "Är live",
+        "save": "Spara streaminställningar",
+        "notifications": {
+          "saveSuccess": "Streaminställningar sparade",
+          "saveError": "Kunde inte spara inställningar"
+        }
+      },
+      "history": {
+        "title": "Historiktidslinjeinnehåll",
+        "addMilestone": "Lägg till milstolpe",
+        "noMilestones": "Inga milstolpar tillagda",
+        "form": {
+          "year": "År",
+          "title": "Titel",
+          "description": "Beskrivning"
+        },
+        "actions": {
+          "remove": "Ta bort",
+          "save": "Spara historik"
+        },
+        "notifications": {
+          "saveSuccess": "Historik sparad",
+          "saveError": "Kunde inte spara historik"
+        }
+      },
+      "mfa": {
+        "title": "Tvåfaktorsautentisering",
+        "status": {
+          "enabled": "2FA är aktiverad",
+          "disabled": "2FA är inte aktiverad"
+        },
+        "setup": {
+          "title": "Ställ in 2FA",
+          "scanQr": "Skanna denna QR-kod med din autentiseringsapp",
+          "enterCode": "Ange den 6-siffriga koden från din app",
+          "verificationCode": "Verifieringskod",
+          "verify": "Verifiera & aktivera",
+          "cancel": "Avbryt"
+        },
+        "actions": {
+          "enable": "Aktivera 2FA",
+          "disable": "Inaktivera 2FA"
+        },
+        "notifications": {
+          "enableSuccess": "2FA aktiverad",
+          "enableError": "Kunde inte aktivera 2FA",
+          "disableSuccess": "2FA inaktiverad",
+          "disableError": "Kunde inte inaktivera 2FA",
+          "verifyError": "Ogiltig verifieringskod"
+        }
+      }
+    },
+    "users": {
+      "title": "Användarhantering",
+      "addAdmin": "Lägg till admin",
+      "noUsers": "Inga adminanvändare hittades",
+      "form": {
+        "displayName": "Visningsnamn",
+        "email": "E-post",
+        "role": "Roll",
+        "submit": "Lägg till admin",
+        "cancel": "Avbryt"
+      },
+      "table": {
+        "user": "Användare",
+        "role": "Roll",
+        "created": "Skapad",
+        "lastLogin": "Senaste inloggning",
+        "actions": "Åtgärder"
+      },
+      "roles": {
+        "super_admin": "Superadmin",
+        "admin": "Admin",
+        "viewer": "Läsare",
+        "descriptions": {
+          "super_admin": "Full åtkomst — hantera användare, inställningar och allt innehåll",
+          "admin": "Hantera innehåll — medlemmar, evenemang, donationer, meddelanden",
+          "viewer": "Skrivskyddad åtkomst — visa instrumentpanel och rapporter"
+        }
+      },
+      "actions": {
+        "changeRole": "Ändra roll",
+        "remove": "Ta bort admin"
+      },
+      "removeConfirm": {
+        "title": "Ta bort admin",
+        "message": "Är du säker på att du vill ta bort denna adminanvändare? De förlorar all adminåtkomst.",
+        "confirm": "Ta bort",
+        "cancel": "Avbryt"
+      },
+      "accessDenied": {
+        "title": "Åtkomst nekad",
+        "message": "Du har inte behörighet att hantera användare. Endast superadmins har åtkomst till denna sida."
+      },
+      "notifications": {
+        "addSuccess": "Adminanvändare tillagd",
+        "addError": "Kunde inte lägga till adminanvändare",
+        "roleUpdateSuccess": "Roll uppdaterad",
+        "roleUpdateError": "Kunde inte uppdatera roll",
+        "removeSuccess": "Adminanvändare borttagen",
+        "removeError": "Kunde inte ta bort adminanvändare"
+      }
+    },
+    "common": {
+      "save": "Spara",
+      "cancel": "Avbryt",
+      "delete": "Radera",
+      "edit": "Redigera",
+      "add": "Lägg till",
+      "close": "Stäng",
+      "confirm": "Bekräfta",
+      "loading": "Laddar...",
+      "error": "Ett fel inträffade",
+      "success": "Klart",
+      "noData": "Ingen data tillgänglig",
+      "search": "Sök...",
+      "filter": "Filtrera",
+      "actions": "Åtgärder",
+      "status": "Status",
+      "date": "Datum",
+      "yes": "Ja",
+      "no": "Nej",
+      "back": "Tillbaka",
+      "next": "Nästa",
+      "previous": "Föregående",
+      "showing": "Visar {count} av {total}",
+      "sek": "SEK",
+      "exportCsv": "Exportera CSV",
+      "notProvided": "Ej angivet",
+      "notSpecified": "Ej specificerat",
+      "notAvailable": "Saknas",
+      "updating": "Uppdaterar..."
+    }
+  }
+}

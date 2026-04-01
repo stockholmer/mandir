@@ -1,0 +1,1399 @@
+{
+  "common": {
+    "siteName": "Hindu Mandir Stockholm",
+    "siteDescription": "Hindu Mandir Society Stockholm — A place for prayer, community, and culture",
+    "language": "English",
+    "switchLanguage": "Svenska",
+    "learnMore": "Learn More",
+    "readMore": "Read More",
+    "backToHome": "Back to Home",
+    "submit": "Submit",
+    "loading": "Loading...",
+    "required": "Required",
+    "success": "Success!",
+    "error": "Something went wrong. Please try again.",
+    "submitting": "Submitting...",
+    "all": "All",
+    "rateLimited": "Too many submissions. Please try again later."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "history": "Our History",
+    "boardMembers": "Board Members",
+    "documents": "Documents",
+    "services": "Services",
+    "events": "Events",
+    "gallery": "Gallery",
+    "membership": "Membership",
+    "donation": "Donation",
+    "bhandara": "Bhandara",
+    "contact": "Contact",
+    "newsletter": "Newsletter",
+    "liveStream": "Live Stream",
+    "volunteer": "Volunteer",
+    "timeslots": "Book a Pooja",
+    "feedback": "Feedback"
+  },
+  "home": {
+    "hero": {
+      "title": "Welcome to Hindu Mandir Stockholm",
+      "subtitle": "A place for prayer, community, and Indian culture in the heart of Stockholm",
+      "cta": "Become a Member",
+      "ctaSecondary": "Upcoming Events",
+      "blessing": "ॐ सर्वे भवन्तु सुखिनः"
+    },
+    "sanskritVerse": {
+      "verse": "सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः। सर्वे भद्राणि पश्यन्तु मा कश्चिद्दुःखभाग्भवेत्॥",
+      "translation": "May all be happy, may all be free from illness, may all see goodness, may no one suffer",
+      "source": "Shanti Mantra"
+    },
+    "about": {
+      "title": "About the Temple",
+      "description": "Since 1998, Hindu Mandir has protected and furthered the interests of Swedish Hindus. We safeguard the Hindu tradition and lifestyle in Sweden, serving approximately 70,000 Hindus with regular pujas, cultural events, and programs for all ages."
+    },
+    "upcomingEvents": {
+      "title": "Upcoming Events",
+      "viewAll": "View All Events",
+      "noEvents": "No upcoming events at this time. Visit the events page for the full calendar."
+    },
+    "services": {
+      "title": "Our Services",
+      "puja": "Puja & Prayer",
+      "pujaDesc": "Daily and weekly puja ceremonies for everyone",
+      "events": "Festivals & Events",
+      "eventsDesc": "Celebrate Hindu festivals and cultural events",
+      "bhandara": "Bhandara",
+      "bhandaraDesc": "Book a community meal at the temple",
+      "community": "Community",
+      "communityDesc": "Be part of our growing community",
+      "learnMore": "Learn more"
+    },
+    "cta": {
+      "title": "Support Hindu Mandir Stockholm",
+      "description": "Your donation helps us maintain the temple and organize events for the community.",
+      "donate": "Donate Now",
+      "membership": "Become a Member",
+      "blessing": "\"Sarve Bhavantu Sukhinah\" — May all beings be happy"
+    },
+    "meta": {
+      "title": "Hindu Mandir Stockholm",
+      "description": "Welcome to Hindu Mandir Stockholm — a place for prayer, community, and Indian culture in Helenelund, Stockholm, Sweden."
+    }
+  },
+  "events": {
+    "title": "Events & Festivals",
+    "subtitle": "Join us for religious ceremonies, cultural celebrations, and community gatherings",
+    "upcoming": "Upcoming Events",
+    "past": "Past Events",
+    "noEvents": "No events scheduled at this time. Check back soon!",
+    "date": "Date",
+    "time": "Time",
+    "location": "Location",
+    "rsvp": "RSVP",
+    "rsvpName": "Your Name",
+    "rsvpEmail": "Email",
+    "rsvpPhone": "Phone (optional)",
+    "rsvpGuests": "Number of Guests",
+    "rsvpSuccess": "Your RSVP has been registered! We look forward to seeing you.",
+    "close": "Close",
+    "addToCalendar": "Add to Calendar",
+    "downloadICS": "Download .ics",
+    "listView": "List View",
+    "calendarView": "Calendar View",
+    "filterAll": "All",
+    "filterPuja": "Puja",
+    "filterFestival": "Festival",
+    "filterCultural": "Cultural",
+    "subscribeCalendar": "Subscribe to Calendar",
+    "subscribeCopied": "Link copied!",
+    "subscribeTooltip": "Add to your calendar app for automatic updates",
+    "bookPujaSlots": "Book Puja Slots",
+    "weekdays": {
+      "sun": "Sun",
+      "mon": "Mon",
+      "tue": "Tue",
+      "wed": "Wed",
+      "thu": "Thu",
+      "fri": "Fri",
+      "sat": "Sat"
+    },
+    "calendar": {
+      "noEvents": "No events this day",
+      "clickForDetails": "Click for details"
+    },
+    "meta": {
+      "title": "Events & Festivals",
+      "description": "Upcoming pujas, festivals, and community events at Hindu Mandir Stockholm"
+    },
+    "exportMonth": "Export Month",
+    "legend": "Legend:",
+    "pastEvents": "Past Events",
+    "copyUrl": "Copy URL",
+    "categoryPuja": "Puja",
+    "categoryFestival": "Festival",
+    "categoryCultural": "Cultural",
+    "categoryEvent": "Event"
+  },
+  "services": {
+    "title": "Mandir Services",
+    "subtitle": "We offer a variety of religious and community services",
+    "intro": "Come and be proud sponsors of Sunday Satsang, Pooja and Preeti Bhoj. Come with your family and friends and seize the opportunity to thank the Almighty for all that he has given us, get blessings and pray for continued peace, health and happiness.",
+    "dailyPuja": "Daily Puja",
+    "dailyPujaDesc": "Morning and evening aarti and puja ceremonies held daily at the temple.",
+    "specialPuja": "Special Puja",
+    "specialPujaDesc": "Personal puja ceremonies for special occasions — namkaran, gruh pravesh, satyanarayan katha, and more.",
+    "festivals": "Hindu Festivals",
+    "festivalsDesc": "We celebrate all major Hindu festivals including Diwali, Holi, Navratri, Janmashtami, and many more.",
+    "youthPrograms": "Youth Programs",
+    "youthProgramsDesc": "Cultural and language classes for children and youth to stay connected with their heritage.",
+    "yogaMeditation": "Yoga & Meditation",
+    "yogaMeditationDesc": "Weekly yoga and meditation sessions open to all community members.",
+    "communityHall": "Community Hall",
+    "communityHallDesc": "Our community hall is available for cultural events, celebrations, and community gatherings.",
+    "pricingTitle": "Service Pricing",
+    "pricingSubtitle": "The list of services and donations for the temple",
+    "memberColumn": "Member",
+    "nonMemberColumn": "Non-member",
+    "generalServices": "Service",
+    "bhandaraInMandir": "Bhandara in Mandir",
+    "bhandaraPrice": "5,100 kr",
+    "lastRituals": "Last Rituals",
+    "namKaran": "Nam Karan",
+    "hawan": "Hawan",
+    "shantiPath": "Shanti Path",
+    "grahPravesh": "Grah Pravesh",
+    "weddingServices": "Wedding Services",
+    "panditHouseCall": "Pandit ji on house call (excl. travel costs)",
+    "panditHouseCallPrice": "1,100 kr",
+    "mandirWithoutKitchen": "In Mandir without kitchen",
+    "mandirWithoutKitchenPrice": "2,100 kr",
+    "mandirWithKitchen": "In Mandir with kitchen",
+    "mandirWithKitchenPrice": "5,100 kr",
+    "available": "Available",
+    "notAvailable": "Not available",
+    "membersOnly": "Members only",
+    "membersOnlyTitle": "Members Only Services",
+    "membersOnlyExplanation": "Services marked with a checkmark for members and a cross for non-members are exclusively available to registered members. Become a member to access all services.",
+    "becomeMember": "Become a member",
+    "pujaOpportunitiesTitle": "Upcoming Puja Opportunities",
+    "pujaOpportunitiesSubtitle": "Book your puja slots for upcoming festivals and special occasions",
+    "bookNow": "Book Now",
+    "learnMore": "Learn more",
+    "meta": {
+      "title": "Temple Services",
+      "description": "Daily puja, ceremonies, pricing, and community services at Hindu Mandir Stockholm"
+    }
+  },
+  "gallery": {
+    "title": "Photo & Video Gallery",
+    "subtitle": "Moments from our temple activities, festivals, and community events",
+    "photos": "Photos",
+    "videos": "Videos",
+    "noPhotos": "No photos available yet. Check back after our next event!",
+    "noVideos": "No videos available yet.",
+    "albumTemple": "Temple",
+    "albumEvents": "Events",
+    "albumBoard": "Board",
+    "albumCommunity": "Community",
+    "meta": {
+      "title": "Gallery",
+      "description": "Photos and videos from temple activities, festivals, and community events"
+    }
+  },
+  "membership": {
+    "title": "Membership",
+    "subtitle": "Become a member of Hindu Mandir Society Stockholm",
+    "whyJoin": "Why become a member?",
+    "benefit1": "Support the temple and its activities",
+    "benefit2": "Voting rights at the Annual General Meeting (Årsmöte)",
+    "benefit3": "Access to member-only events and programs",
+    "benefit4": "Discounts on puja bookings and hall rental",
+    "familyMembership": "Family Membership",
+    "familyPrice": "1,000 SEK/year",
+    "familyDesc": "Includes all family members and children under 18",
+    "singleMembership": "Single Membership",
+    "singlePrice": "500 SEK/year",
+    "singleDesc": "For individual members",
+    "membershipYear": "Membership year: January – December",
+    "paymentMethods": "Payment Methods",
+    "swish": "Swish: 123 218 02 55",
+    "bankgiro": "Bankgiro: 5079-7737",
+    "recipientName": "HINDU MANDIR SOCIETY I STOCKHOLM",
+    "paymentMessage": "Message: [FullName]-{year}Membership",
+    "emailInstructions": "Upon becoming a member, please email the following details to helenalundhindumandir@gmail.com:",
+    "emailSubject": "Subject: [FullName]-{year}Membership",
+    "emailDetail1": "Home address",
+    "emailDetail2": "Phone number",
+    "emailDetail3": "Email address",
+    "registerTitle": "Register as Member",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "phone": "Phone Number",
+    "address": "Address",
+    "dateOfBirth": "Date of Birth",
+    "membershipType": "Membership Type",
+    "family": "Family",
+    "single": "Single",
+    "consent": "I consent to the processing of my personal data, including information related to my religious beliefs, as described in the Privacy Policy. I understand this data is classified as special category data under GDPR Article 9.",
+    "autoRenewal": "Enable auto-renewal",
+    "autoRenewalNote": "Membership is renewed annually. You will receive a reminder when your membership is due for renewal.",
+    "paymentInstallmentInfo": "Payment can be made in one or multiple installments",
+    "paymentInstallmentDetails": "You can pay the full fee at once or split it into multiple payments throughout the year. Contact us if you have questions.",
+    "register": "Register & Pay",
+    "successMessage": "Thank you for registering! We will process your membership shortly.",
+    "errorMessage": "Registration failed. Please try again.",
+    "meta": {
+      "title": "Become a Member",
+      "description": "Join Hindu Mandir Society Stockholm — membership benefits, registration, and payment details"
+    },
+    "recommended": "Recommended"
+  },
+  "donation": {
+    "title": "Donate",
+    "subtitle": "Support Hindu Mandir Stockholm with a donation",
+    "description": "Your generous donations help us maintain the temple, organize events, and serve the community. Every contribution makes a difference.",
+    "donationType": "Donation Type",
+    "oneTime": "One-time Donation",
+    "monthly": "Monthly Donation",
+    "yearly": "Yearly Donation",
+    "recurringNote": "To make regular donations, please set up a recurring payment through your bank or Swish app.",
+    "amount": "Amount (SEK)",
+    "customAmount": "Custom Amount",
+    "donorInfo": "Donor Information",
+    "donorName": "Name",
+    "anonymous": "Anonymous",
+    "donorEmail": "Email",
+    "donorPhone": "Phone",
+    "inMemory": "In memory of",
+    "inHonour": "In honour of",
+    "optional": "(Optional)",
+    "donateNow": "Donate Now",
+    "payVia": "Pay via",
+    "swishNumber": "Swish: 123 218 02 55",
+    "bankgiroNumber": "Bankgiro: 5079-7737",
+    "recipientName": "HINDU MANDIR SOCIETY I STOCKHOLM",
+    "thankYou": "Thank you for your generosity!",
+    "successMessage": "Your donation has been recorded. Thank you for your generosity!",
+    "errorMessage": "Donation failed. Please try again.",
+    "taxDeductible": "Your donation may be tax-deductible. A receipt will be sent to your email for your records.",
+    "consentLabel": "I consent to the processing of my personal data for this donation as described in our privacy policy",
+    "consentRequired": "You must consent to data processing to proceed",
+    "meta": {
+      "title": "Donate",
+      "description": "Support Hindu Mandir Stockholm with a donation — Swish, Bankgiro, and online options"
+    },
+    "qrCode": "QR Code"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We would love to hear from you",
+    "visitUs": "Visit Us",
+    "address": "Åkervägen 1, 191 40 Helenelund, Stockholm",
+    "callUs": "Call Us",
+    "phone": "08-35 72 22",
+    "emailUs": "Email Us",
+    "email": "helenalundhindumandir@gmail.com",
+    "openingHours": "Opening Hours",
+    "weekdays": "Monday – Saturday: 07:00–09:00 & 17:00–19:00",
+    "weekends": "Sunday: 11:00–16:00",
+    "sendMessage": "Send a Message",
+    "name": "Your Name",
+    "subject": "Subject",
+    "message": "Message",
+    "send": "Send Message",
+    "successMessage": "Thank you! We will get back to you soon.",
+    "errorMessage": "Failed to send message. Please try again.",
+    "captchaLabel": "What is {num1} + {num2}?",
+    "captchaError": "Incorrect answer, please try again",
+    "rateLimited": "Too many submissions. Please try again later.",
+    "timeoutError": "Connection timed out. Please try again.",
+    "retrying": "Retrying...",
+    "consentLabel": "I consent to the processing of my personal data as described in the Privacy Policy.",
+    "consentRequired": "You must consent to data processing to proceed",
+    "meta": {
+      "title": "Contact Us",
+      "description": "Get in touch with Hindu Mandir Stockholm — address, phone, email, and opening hours"
+    }
+  },
+  "history": {
+    "title": "Our History",
+    "subtitle": "The journey of Hindu Mandir Society Stockholm",
+    "intro": "Hindu Mandir Society Stockholm was established in 1980 to serve the Indo-Swedish community. A religious, non-profit charity, it aims to meet the spiritual, ritual, ceremonial, and social needs of Hindus in the Stockholm region. Since the temple inauguration in September 1998, it has been the heartbeat of the Hindu community in Sweden.",
+    "timeline": "Timeline",
+    "photoGalleryTitle": "Our Temple in Pictures",
+    "meta": {
+      "title": "Our History",
+      "description": "The history of Hindu Mandir Society Stockholm — from 1980 to today"
+    }
+  },
+  "board": {
+    "title": "Mandir Samiti 2025/26",
+    "subtitle": "The elected board of Hindu Mandir Society Stockholm",
+    "president": "President",
+    "vicePresident": "Vice President",
+    "financeSecretary": "Finance Secretary",
+    "informationSecretary": "Information Secretary",
+    "propertySecretary": "Property Secretary",
+    "festivalSecretary": "Festival Secretary",
+    "cultureSecretary": "Culture Secretary",
+    "internalAuditor": "Internal Auditor",
+    "deputyAuditor": "Deputy Auditor",
+    "electionCommittee": "Election Committee",
+    "member": "Board Member",
+    "meta": {
+      "title": "Board Members",
+      "description": "Meet the elected board of Hindu Mandir Society Stockholm (Mandir Samiti)"
+    },
+    "_termNote": "UPDATE ANNUALLY: Change the year when a new board is elected"
+  },
+  "documents": {
+    "title": "Documents",
+    "subtitle": "Official documents of Hindu Mandir Society Stockholm",
+    "stadgar": "Stadgar (Bylaws)",
+    "annualReport": "Annual Report",
+    "financialStatement": "Financial Statement",
+    "meetingProtocols": "Meeting Protocols",
+    "newsletters": "Newsletters",
+    "download": "Download PDF",
+    "comingSoon": "Coming soon",
+    "noDocuments": "No documents found.",
+    "documentsEmptyState": "Documents will be available here once uploaded by the temple administration.",
+    "searchPlaceholder": "Search...",
+    "meta": {
+      "title": "Documents",
+      "description": "Official documents of Hindu Mandir Society Stockholm — bylaws, reports, and protocols"
+    }
+  },
+  "bhandara": {
+    "title": "Bhandara Booking",
+    "subtitle": "Book a community meal (Bhandara) at the temple",
+    "whatIsBhandara": "What is Bhandara?",
+    "description": "Bhandara is a tradition of offering food to the community. You can sponsor a Bhandara for a special occasion, in memory of a loved one, or simply to serve the community.",
+    "minimumFee": "Minimum fee",
+    "feeNote": "You may contribute more than the minimum amount",
+    "selectDate": "Select Date",
+    "occasion": "Occasion",
+    "occasionPlaceholder": "e.g., In memory of..., Birthday celebration, etc.",
+    "numberOfGuests": "Expected Number of Guests",
+    "specialRequirements": "Special Requirements",
+    "additionalDonation": "Additional Donation (optional)",
+    "totalAmount": "Total Amount",
+    "name": "Your Name",
+    "email": "Email",
+    "phone": "Phone",
+    "book": "Book Bhandara",
+    "successMessage": "Your Bhandara booking has been submitted! We will contact you to confirm.",
+    "errorMessage": "Booking failed. Please try again.",
+    "addToYourCalendar": "Add to Your Calendar",
+    "addToGoogleCalendar": "Add to Google Calendar",
+    "downloadICS": "Download .ics",
+    "consentLabel": "I consent to the processing of my personal data for this bhandara booking as described in our privacy policy",
+    "consentRequired": "You must consent to data processing to proceed",
+    "step1Label": "Details",
+    "step2Label": "Preferences",
+    "step3Label": "Confirm",
+    "step1Heading": "Step 1 — Personal Details",
+    "step2Heading": "Step 2 — Preferences",
+    "step3Heading": "Step 3 — Confirm & Submit",
+    "meta": {
+      "title": "Bhandara Booking",
+      "description": "Book a community meal (Bhandara) at Hindu Mandir Stockholm"
+    }
+  },
+  "liveStream": {
+    "title": "Live Stream",
+    "subtitle": "Watch temple ceremonies and events live",
+    "noStream": "No live stream is currently active. Please check our events calendar for upcoming live-streamed events.",
+    "watchOnYoutube": "Watch on YouTube",
+    "watchOnFacebook": "Watch on Facebook",
+    "disclaimer": "By watching the live stream, you acknowledge that religious ceremonies are being broadcast. Attendees visible in the stream have been informed.",
+    "meta": {
+      "title": "Live Stream",
+      "description": "Watch live darshan and temple ceremonies from Hindu Mandir Stockholm"
+    },
+    "liveNow": "Live Now",
+    "cookieBlocked": "YouTube video is blocked by your cookie preferences. Please update your cookie settings to view this content.",
+    "updateCookies": "Update Cookie Settings"
+  },
+  "newsletter": {
+    "title": "Newsletter",
+    "subtitle": "Stay updated with Hindu Mandir Stockholm news",
+    "subscribe": "Subscribe to our newsletter",
+    "emailPlaceholder": "Enter your email address",
+    "subscribeButton": "Subscribe",
+    "archive": "Newsletter Archive",
+    "noNewsletters": "No newsletters published yet.",
+    "consentNote": "We will only send newsletters to your email. You can unsubscribe at any time.",
+    "consentLabel": "I consent to receiving newsletters and the processing of my email as described in our privacy policy",
+    "consentRequired": "You must consent to data processing to subscribe",
+    "successMessage": "You have been subscribed to our newsletter!",
+    "errorMessage": "Subscription failed. Please try again.",
+    "loadMore": "Load More",
+    "showing": "Showing",
+    "of": "of",
+    "unsubscribeTitle": "Unsubscribe",
+    "unsubscribeSubtitle": "We're sorry to see you go. Enter your email to unsubscribe.",
+    "unsubscribeButton": "Unsubscribe",
+    "unsubscribeSuccess": "You have been unsubscribed from our newsletter.",
+    "unsubscribeError": "Failed to unsubscribe. Please try again.",
+    "meta": {
+      "title": "Newsletter",
+      "description": "Subscribe to the Hindu Mandir Stockholm newsletter for temple news and updates"
+    }
+  },
+  "volunteer": {
+    "title": "Volunteer",
+    "subtitle": "Help us serve the community",
+    "description": "We are always looking for dedicated volunteers to help with temple activities, events, and community service. Join our team of volunteers!",
+    "areas": "Volunteer Areas",
+    "eventHelp": "Event Organization",
+    "eventHelpDesc": "Help plan and run festivals and events",
+    "templeUpkeep": "Temple Maintenance",
+    "templeUpkeepDesc": "Help maintain the temple and its surroundings",
+    "teaching": "Teaching & Mentoring",
+    "teachingDesc": "Teach language, culture, or religious classes",
+    "administration": "Administration",
+    "administrationDesc": "Help with office work, communications, or website",
+    "signUp": "Sign Up as Volunteer",
+    "availability": "Availability",
+    "interests": "Areas of Interest",
+    "experience": "Relevant Experience",
+    "signUpButton": "Sign Up",
+    "consentLabel": "I consent to the processing of my personal data for volunteer registration as described in our privacy policy",
+    "consentRequired": "You must consent to data processing to proceed",
+    "successMessage": "Thank you for signing up! We will be in touch.",
+    "errorMessage": "Sign-up failed. Please try again.",
+    "meta": {
+      "title": "Volunteer",
+      "description": "Join our volunteer team at Hindu Mandir Stockholm — events, maintenance, teaching, and more"
+    },
+    "availabilityPlaceholder": "e.g., Weekends, Evenings"
+  },
+  "timeslots": {
+    "title": "Book a Pooja",
+    "subtitle": "Book a pooja or service at Hindu Mandir Stockholm",
+    "selectEvent": "Select Event",
+    "selectEventPrompt": "Select an event to see available time slots",
+    "noEvents": "No Active Pooja Events",
+    "noEventsDescription": "There are no pooja events scheduled at this time. New events are added regularly — check back soon or contact us to arrange a booking.",
+    "availableSlots": "Available Slots",
+    "noSlots": "No time slots available for this event",
+    "available": "Available",
+    "booked": "Booked",
+    "book": "Book",
+    "bookSlot": "Book Slot",
+    "name": "Your Name",
+    "phone": "Phone",
+    "email": "Email",
+    "confirmBooking": "Confirm Booking",
+    "bookingSuccess": "Your booking has been registered!",
+    "cancelBooking": "Cancel Booking",
+    "cancelEmailPrompt": "Enter the email address you used for the booking",
+    "confirmCancel": "Confirm Cancellation",
+    "cancelNotFound": "No booking found with this email address",
+    "errorMessage": "Something went wrong. Please try again.",
+    "calendarTitle": "Calendar",
+    "today": "Today",
+    "poojasWeOffer": "Poojas We Offer",
+    "pooja1Name": "Ganesh Puja",
+    "pooja1Desc": "Invoke Lord Ganesha's blessings for new beginnings and removal of obstacles",
+    "pooja2Name": "Lakshmi Puja",
+    "pooja2Desc": "Seek blessings of Goddess Lakshmi for prosperity and well-being",
+    "pooja3Name": "Satyanarayan Katha",
+    "pooja3Desc": "A sacred narrative worship for fulfillment and gratitude",
+    "pooja4Name": "Havan / Homa",
+    "pooja4Desc": "Vedic fire ritual for purification, health, and spiritual upliftment",
+    "pooja5Name": "Navagraha Puja",
+    "pooja5Desc": "Planetary puja for peace and harmony in life",
+    "pooja6Name": "Custom Puja",
+    "pooja6Desc": "Request a specific puja or ceremony — contact us for details",
+    "requestPooja": "Request a Pooja",
+    "requestPoojaDesc": "Want to book a specific pooja or ceremony? Reach out to the temple administration and we will arrange a time for you.",
+    "contactUs": "Contact Us",
+    "templeHours": "Temple Hours",
+    "templeHoursWeekday": "Mon–Sat: 07:00–09:00 & 17:00–19:00",
+    "templeHoursSunday": "Sunday: 11:00–16:00",
+    "checkingEvents": "Checking for available poojas...",
+    "consentLabel": "I consent to the processing of my personal data, including data related to religious activities, as described in the Privacy Policy.",
+    "consentRequired": "You must consent to data processing to proceed",
+    "meta": {
+      "title": "Book a Pooja",
+      "description": "Reserve a pooja timeslot at Hindu Mandir Stockholm"
+    }
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "aboutUs": "About Us",
+    "contact": "Contact",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "followUs": "Follow Us",
+    "copyright": "© {year} Hindu Mandir Society Stockholm. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "cookies": "Cookies",
+    "dataRequest": "Data Request",
+    "cookiePreferences": "Cookie Preferences",
+    "admin": "Admin"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: February 2026",
+    "introTitle": "Introduction",
+    "introText": "Hindu Mandir Society Stockholm (\"we\", \"us\", or \"our\") is committed to protecting the privacy and personal data of our members, visitors, and website users. This privacy policy explains how we collect, use, store, and protect your personal data in accordance with the EU General Data Protection Regulation (GDPR) and Swedish data protection legislation.",
+    "controllerTitle": "Data Controller",
+    "controllerText": "The data controller responsible for your personal data is:",
+    "controllerName": "Hindu Mandir Society Stockholm",
+    "controllerAddress": "Åkervägen 1, 191 40 Helenelund",
+    "controllerEmail": "helenalundhindumandir@gmail.com",
+    "controllerOrgType": "Registered religious organization (trossamfund) in Sweden",
+    "dataCollectTitle": "Data We Collect",
+    "dataCollectText": "We may collect and process the following categories of personal data:",
+    "dataCollectItem1": "Identity data: first name, last name, date of birth",
+    "dataCollectItem2": "Contact data: email address, phone number, postal address",
+    "dataCollectItem3": "Membership data: membership type, membership number, payment history",
+    "dataCollectItem4": "Donation data: donation amounts, payment references, Swish/Bankgiro transactions",
+    "dataCollectItem5": "Event data: event registrations, attendance, volunteer participation",
+    "dataCollectItem6": "Communication data: messages sent through our contact form, newsletter subscriptions",
+    "dataCollectItem7": "Technical data: IP address, browser type, device information (collected automatically when you visit our website)",
+    "dataCollectItem8": "Religious affiliation: as a religious organization, we may process data indicating your religious beliefs in connection with your membership or participation in religious activities",
+    "legalBasisTitle": "Legal Basis for Processing",
+    "legalBasisText": "We process your personal data based on the following legal grounds under Article 6 of the GDPR:",
+    "legalBasisConsent": "Consent (Art. 6(1)(a)): When you subscribe to our newsletter, submit a contact form, or give explicit consent for specific processing activities.",
+    "legalBasisContract": "Contract (Art. 6(1)(b)): When processing is necessary for the performance of your membership agreement or to process a donation or bhandara booking you have requested.",
+    "legalBasisLegal": "Legal obligation (Art. 6(1)(c)): When we are required to retain financial records under Swedish Bokföringslagen (Accounting Act).",
+    "legalBasisLegitimate": "Legitimate interests (Art. 6(1)(f)): For the administration of our organization, communicating with members, and maintaining the security of our website.",
+    "specialCategoryTitle": "Processing of Special Category Data (Article 9)",
+    "specialCategoryText": "As a registered religious organization (trossamfund), we may process data revealing religious beliefs. This processing is permitted under Article 9(2)(d) of the GDPR, which allows processing by a not-for-profit body with a religious aim, provided that the processing relates solely to members or former members of the organization, or to persons who have regular contact with it in connection with its purposes, and the personal data is not disclosed outside the organization without the consent of the data subjects.",
+    "useTitle": "How We Use Your Data",
+    "useText": "We use your personal data for the following purposes:",
+    "useItem1": "Managing your temple membership and communicating membership-related information",
+    "useItem2": "Processing donations and issuing receipts",
+    "useItem3": "Organizing and managing events, festivals, and religious ceremonies",
+    "useItem4": "Managing bhandara bookings and community meals",
+    "useItem5": "Sending newsletters and temple updates (only with your consent)",
+    "useItem6": "Responding to your enquiries via the contact form",
+    "useItem7": "Coordinating volunteer activities",
+    "useItem8": "Maintaining and improving our website",
+    "useItem9": "Complying with legal and regulatory obligations",
+    "sharingTitle": "Data Sharing",
+    "sharingText": "We do not sell, trade, or rent your personal data to third parties. We may share your data in the following limited circumstances:",
+    "sharingItem1": "Service providers: We use Firebase (Google Cloud) to host our website and store data. Google processes data in accordance with their data processing terms and GDPR requirements.",
+    "sharingItem2": "Payment processors: When you make payments via Swish or Bankgiro, your transaction data is processed by the respective payment service providers.",
+    "sharingItem3": "Error tracking: We use Sentry (Functional Software, Inc.) for error monitoring and performance tracking. Sentry may receive technical data such as IP addresses, browser information, and error details to help us identify and fix issues. Sentry processes data in accordance with their privacy policy and GDPR requirements.",
+    "sharingItem4": "Legal requirements: We may disclose your data if required by law, for example to the Swedish Tax Agency (Skatteverket) for financial reporting purposes.",
+    "retentionTitle": "Data Retention",
+    "retentionText": "We retain your personal data only for as long as necessary for the purposes described in this policy:",
+    "retentionItem1": "Membership data: Retained for the duration of your membership and up to 2 years after membership ends, to allow for re-registration.",
+    "retentionItem2": "Financial records (donations, payments): Retained for 7 years as required by the Swedish Bokföringslagen (Accounting Act, Chapter 7, Section 2).",
+    "retentionItem3": "Contact form messages: Retained for up to 1 year after the enquiry has been resolved.",
+    "retentionItem4": "Newsletter subscriptions: Retained until you unsubscribe.",
+    "retentionItem5": "Event registrations: Retained for up to 1 year after the event.",
+    "retentionItem6": "Website technical data: Retained for up to 12 months.",
+    "rightsTitle": "Your Rights",
+    "rightsText": "Under the GDPR, you have the following rights regarding your personal data:",
+    "rightsAccess": "Right of access: You have the right to request a copy of the personal data we hold about you.",
+    "rightsRectification": "Right to rectification: You have the right to request that we correct any inaccurate personal data.",
+    "rightsErasure": "Right to erasure: You have the right to request that we delete your personal data, subject to legal retention obligations.",
+    "rightsRestriction": "Right to restriction: You have the right to request that we restrict the processing of your personal data in certain circumstances.",
+    "rightsPortability": "Right to data portability: You have the right to receive your personal data in a structured, commonly used, and machine-readable format.",
+    "rightsObjection": "Right to object: You have the right to object to the processing of your personal data based on legitimate interests.",
+    "rightsWithdraw": "Right to withdraw consent: Where processing is based on consent, you may withdraw your consent at any time without affecting the lawfulness of processing carried out before the withdrawal.",
+    "rightsExercise": "To exercise any of these rights, please contact us at helenalundhindumandir@gmail.com. We will respond to your request within 30 days.",
+    "childrenTitle": "Children's Data",
+    "childrenText": "We do not knowingly collect personal data from children under the age of 13 without parental consent, in accordance with Swedish law. Family memberships include children under 18, but the membership registration is carried out by a parent or legal guardian. If you believe we have collected data from a child under 13 without appropriate consent, please contact us immediately so we can take action.",
+    "cookiesTitle": "Cookies",
+    "cookiesText": "Our website uses cookies to ensure proper functionality. For detailed information about the cookies we use and how to manage them, please see our Cookie Policy.",
+    "cookiesLink": "View our Cookie Policy",
+    "contactTitle": "Contact for Data Requests",
+    "contactText": "If you have any questions about this privacy policy, wish to exercise your data protection rights, or have a complaint about how we handle your personal data, please contact us:",
+    "contactEmail": "Email: helenalundhindumandir@gmail.com",
+    "contactAddress": "Post: Hindu Mandir Society Stockholm, Åkervägen 1, 191 40 Helenelund",
+    "supervisoryText": "You also have the right to lodge a complaint with the Swedish Authority for Privacy Protection (Integritetsskyddsmyndigheten, IMY) if you believe your data protection rights have been violated.",
+    "supervisoryLink": "Visit IMY: www.imy.se",
+    "changesTitle": "Changes to This Policy",
+    "changesText": "We may update this privacy policy from time to time. Any changes will be posted on this page with an updated revision date. We encourage you to review this page periodically.",
+    "meta": {
+      "title": "Privacy Policy",
+      "description": "How Hindu Mandir Stockholm handles your personal data — GDPR compliance"
+    }
+  },
+  "cookiePolicy": {
+    "title": "Cookie Policy",
+    "lastUpdated": "Last updated: February 2026",
+    "introTitle": "What Are Cookies",
+    "introText": "Cookies are small text files that are stored on your device (computer, tablet, or mobile phone) when you visit a website. They are widely used to make websites work more efficiently and to provide information to website owners.",
+    "whatWeUseTitle": "Cookies We Use",
+    "whatWeUseText": "We strive to use as few cookies as possible. Currently, our website uses the following types of cookies:",
+    "essentialTitle": "Essential Cookies",
+    "essentialText": "These cookies are necessary for the website to function properly. They include:",
+    "essentialItem1": "Cookie consent preference: Stores your cookie consent choice so we do not ask you repeatedly. (Key: cookie-consent, Duration: 1 year)",
+    "essentialItem2": "Locale preference: Remembers your language selection (Swedish or English).",
+    "analyticsTitle": "Analytics",
+    "analyticsText": "We use Vercel Analytics to understand how visitors use our website. Vercel Analytics is privacy-friendly and does not use cookies for tracking. It collects anonymized usage data to help us improve the site. No personal information is collected or shared with third parties.",
+    "thirdPartyTitle": "Third-Party Cookies",
+    "thirdPartyText": "Our website may embed content from third-party services (such as YouTube for live streams). These services may set their own cookies. We have no control over third-party cookies and recommend reviewing their respective cookie policies.",
+    "manageTitle": "How to Manage Cookies",
+    "manageText": "You can manage or delete cookies through your browser settings. Here is how to manage cookies in common browsers:",
+    "manageChrome": "Chrome: Settings > Privacy and Security > Cookies and other site data",
+    "manageFirefox": "Firefox: Settings > Privacy & Security > Cookies and Site Data",
+    "manageSafari": "Safari: Preferences > Privacy > Manage Website Data",
+    "manageEdge": "Edge: Settings > Cookies and site permissions > Cookies and site data",
+    "manageNote": "Please note that disabling essential cookies may affect the functionality of this website.",
+    "consentTitle": "Your Consent",
+    "consentText": "When you first visit our website, you will be shown a cookie consent banner. You can choose to accept all cookies or use only essential cookies. You can change your preference at any time by clearing your browser cookies and revisiting the site.",
+    "contactTitle": "Contact",
+    "contactText": "If you have questions about our use of cookies, please contact us at helenalundhindumandir@gmail.com.",
+    "changesTitle": "Changes to This Policy",
+    "changesText": "We may update this cookie policy from time to time. Any changes will be posted on this page with an updated revision date.",
+    "meta": {
+      "title": "Cookie Policy",
+      "description": "Information about cookies used on the Hindu Mandir Stockholm website"
+    }
+  },
+  "cookieConsent": {
+    "message": "We use cookies to ensure our website works properly and to improve your experience.",
+    "accept": "Accept All",
+    "essentialOnly": "Only Essential",
+    "learnMore": "Cookie Policy"
+  },
+  "dataRequest": {
+    "title": "Data Request",
+    "subtitle": "Exercise your GDPR rights",
+    "intro": "Under GDPR, you have the right to request a copy of your personal data or request that we delete your data. Use the form below to submit your request. We will process your request within 30 days.",
+    "nameLabel": "Full name",
+    "namePlaceholder": "Your full name",
+    "emailLabel": "Email address",
+    "emailPlaceholder": "your@email.com",
+    "requestTypeLabel": "Request type",
+    "exportDataTitle": "Export my data",
+    "exportDataDesc": "Receive a copy of all personal data we hold about you in a machine-readable format.",
+    "deleteDataTitle": "Delete my data",
+    "deleteDataDesc": "Request that we delete all your personal data from our systems (subject to legal retention requirements).",
+    "messageLabel": "Additional information (optional)",
+    "messagePlaceholder": "Describe your request or include additional details...",
+    "submitButton": "Submit Request",
+    "submitting": "Submitting...",
+    "nextStep": "Continue to verification",
+    "confirmTitle": "Confirm your request",
+    "confirmDescription": "You are requesting \"{type}\" for {email}. Please confirm this is your email address by re-typing it below.",
+    "confirmEmailLabel": "Confirm your email address",
+    "confirmEmailPlaceholder": "Re-type your email address",
+    "confirmEmailMismatch": "Email addresses do not match. Please try again.",
+    "confirmBack": "Go back",
+    "confirmSubmit": "Confirm and submit",
+    "captchaLabel": "Verify you are human",
+    "captchaError": "Incorrect answer. Please try again.",
+    "rateLimited": "You have submitted too many requests in this session. Please try again later.",
+    "successTitle": "Request received",
+    "successMessage": "Your request has been recorded. We will process your request and contact you within 30 days as required by GDPR.",
+    "submitAnother": "Submit another request",
+    "processingNotice": "We process all requests within 30 days as required by GDPR. You will receive an email from us with confirmation and further instructions.",
+    "meta": {
+      "title": "Data Request",
+      "description": "Submit a GDPR data request — export or delete your personal data from Hindu Mandir Stockholm"
+    }
+  },
+  "unsubscribe": {
+    "title": "Unsubscribe",
+    "subtitle": "Unsubscribe from newsletter",
+    "intro": "We're sorry to see you go! Enter your email address below to unsubscribe from our newsletter.",
+    "emailLabel": "Email address",
+    "emailPlaceholder": "your@email.com",
+    "confirmButton": "Unsubscribe",
+    "submitting": "Unsubscribing...",
+    "successTitle": "Unsubscribed successfully",
+    "successMessage": "You have been unsubscribed from our newsletter. You will not receive any more newsletters from us.",
+    "notFoundMessage": "This email address is not in our subscription list.",
+    "meta": {
+      "title": "Unsubscribe",
+      "description": "Unsubscribe from the Hindu Mandir Stockholm newsletter"
+    }
+  },
+  "feedback": {
+    "title": "Feedback",
+    "subtitle": "We value your feedback — help us improve",
+    "name": "Name",
+    "email": "Email",
+    "type": "Feedback Type",
+    "typeSuggestion": "Suggestion",
+    "typeBug": "Bug Report",
+    "typeCompliment": "Compliment",
+    "typeOther": "Other",
+    "message": "Your Message",
+    "rating": "Rating (optional)",
+    "submit": "Submit Feedback",
+    "successMessage": "Thank you for your feedback! We appreciate you taking the time to help us improve.",
+    "errorMessage": "Failed to submit feedback. Please try again.",
+    "rateLimited": "You have submitted too many feedback forms recently. Please try again later.",
+    "captchaLabel": "Verify you are human",
+    "captchaError": "Incorrect answer. Please try again.",
+    "consentLabel": "I consent to the processing of my personal data as described in the Privacy Policy.",
+    "consentRequired": "You must consent to data processing to proceed",
+    "meta": {
+      "title": "Feedback",
+      "description": "Share your feedback with Hindu Mandir Stockholm — suggestions, bug reports, and compliments"
+    }
+  },
+  "accessibility": {
+    "skipToContent": "Skip to main content"
+  },
+  "admin": {
+    "breadcrumb": "Admin",
+    "sidebar": {
+      "brand": "Admin",
+      "dashboard": "Dashboard",
+      "members": "Members",
+      "events": "Events",
+      "donations": "Donations",
+      "messages": "Messages",
+      "bhandara": "Bhandara",
+      "gallery": "Gallery",
+      "newsletter": "Newsletter",
+      "volunteers": "Volunteers",
+      "timeslots": "Timeslots",
+      "dataRequests": "Data Requests",
+      "users": "Users",
+      "settings": "Settings"
+    },
+    "layout": {
+      "loading": "Loading...",
+      "signOut": "Sign out",
+      "viewSite": "View site",
+      "title": "Hindu Mandir Admin",
+      "closeSidebar": "Close sidebar",
+      "openSidebar": "Open sidebar"
+    },
+    "dashboard": {
+      "title": "Dashboard",
+      "stats": {
+        "totalMembers": "Total Members",
+        "pendingMembers": "Pending Members",
+        "unreadMessages": "Unread Messages",
+        "upcomingEvents": "Upcoming Events",
+        "newsletterSubscribers": "Newsletter Subscribers"
+      },
+      "quickActions": {
+        "title": "Quick Actions",
+        "viewMembers": "View Members",
+        "viewMessages": "View Messages"
+      },
+      "recentActivity": {
+        "title": "Recent Activity",
+        "noActivity": "No recent activity",
+        "hint": "Activity from the last 50 admin actions",
+        "actions": {
+          "login": "Logged in",
+          "logout": "Logged out",
+          "create": "Created",
+          "update": "Updated",
+          "delete": "Deleted",
+          "export": "Exported",
+          "settings": "Settings changed"
+        },
+        "time": {
+          "justNow": "just now",
+          "minutesAgo": "{count}m ago",
+          "hoursAgo": "{count}h ago",
+          "daysAgo": "{count}d ago"
+        }
+      }
+    },
+    "members": {
+      "title": "Members",
+      "search": "Search members...",
+      "exportCsv": "Export CSV",
+      "addMember": "Add Member",
+      "noMembers": "No members found",
+      "table": {
+        "name": "Name",
+        "email": "Email",
+        "type": "Type",
+        "years": "Years",
+        "status": "Status",
+        "date": "Date",
+        "actions": "Actions"
+      },
+      "details": {
+        "phone": "Phone",
+        "autoRenewal": "Auto-Renewal",
+        "memberSince": "Member Since",
+        "activeYears": "Active Years",
+        "paymentHistory": "Payment History"
+      },
+      "status": {
+        "active": "Active",
+        "pending": "Pending",
+        "expired": "Expired"
+      },
+      "type": {
+        "individual": "Individual",
+        "family": "Family",
+        "student": "Student"
+      },
+      "payment": {
+        "title": "Record Payment",
+        "amount": "Amount (SEK)",
+        "method": "Payment Method",
+        "receipt": "Receipt Number",
+        "notes": "Notes",
+        "submit": "Record Payment",
+        "methods": {
+          "swish": "Swish",
+          "bankgiro": "Bankgiro",
+          "card": "Card",
+          "cash": "Cash"
+        }
+      },
+      "notifications": {
+        "paymentSuccess": "Payment recorded successfully",
+        "paymentError": "Failed to record payment",
+        "exportSuccess": "CSV exported successfully",
+        "exportError": "Failed to export CSV"
+      }
+    },
+    "events": {
+      "title": "Events",
+      "addEvent": "Add Event",
+      "noEvents": "No events found",
+      "form": {
+        "title": "Title",
+        "location": "Location",
+        "description": "Description",
+        "date": "Date",
+        "category": "Category",
+        "save": "Save Event",
+        "cancel": "Cancel",
+        "edit": "Edit",
+        "update": "Update Event"
+      },
+      "selectCategory": "Select category",
+      "eventsCount": "{count} events",
+      "categories": {
+        "puja": "Puja",
+        "festival": "Festival",
+        "cultural": "Cultural"
+      },
+      "card": {
+        "rsvpCount": "{count} RSVPs",
+        "noRsvps": "No RSVPs yet",
+        "edit": "Edit",
+        "delete": "Delete"
+      },
+      "deleteConfirm": {
+        "title": "Delete Event",
+        "message": "Are you sure you want to delete this event? This action cannot be undone.",
+        "confirm": "Delete",
+        "cancel": "Cancel"
+      },
+      "notifications": {
+        "createSuccess": "Event created successfully",
+        "createError": "Failed to create event",
+        "updateSuccess": "Event updated successfully",
+        "updateError": "Failed to update event",
+        "deleteSuccess": "Event deleted successfully",
+        "deleteError": "Failed to delete event"
+      }
+    },
+    "donations": {
+      "title": "Donations",
+      "stats": {
+        "totalDonations": "Total Donations",
+        "completed": "Completed",
+        "pending": "Pending",
+        "thisMonth": "This Month",
+        "monthComparison": "vs last month",
+        "awaitingConfirmation": "Awaiting confirmation"
+      },
+      "table": {
+        "amount": "Amount",
+        "donor": "Donor",
+        "type": "Type",
+        "date": "Date",
+        "status": "Status",
+        "actions": "Actions"
+      },
+      "details": {
+        "title": "Donation Details",
+        "donorEmail": "Donor Email",
+        "donorPhone": "Donor Phone",
+        "paymentMethod": "Payment Method",
+        "inMemoryOf": "In Memory Of",
+        "inHonourOf": "In Honour Of"
+      },
+      "status": {
+        "completed": "Completed",
+        "pending": "Pending",
+        "failed": "Failed"
+      },
+      "actions": {
+        "markReceived": "Mark as Received",
+        "viewDetails": "View Details"
+      },
+      "notifications": {
+        "updateSuccess": "Donation updated successfully",
+        "updateError": "Failed to update donation"
+      }
+    },
+    "messages": {
+      "title": "Contact Messages",
+      "totalCount": "Total: {count}",
+      "unreadCount": "Unread: {count}",
+      "noMessages": "No messages found",
+      "table": {
+        "name": "Name",
+        "email": "Email",
+        "subject": "Subject",
+        "date": "Date",
+        "read": "Read",
+        "actions": "Actions"
+      },
+      "status": {
+        "read": "Read",
+        "unread": "Unread"
+      },
+      "actions": {
+        "markRead": "Mark Read",
+        "markUnread": "Mark Unread",
+        "viewFull": "Full Message",
+        "delete": "Delete"
+      },
+      "notifications": {
+        "markSuccess": "Message marked as read",
+        "markError": "Failed to update message"
+      }
+    },
+    "bhandara": {
+      "title": "Bhandara Bookings",
+      "stats": {
+        "totalBookings": "Total Bookings",
+        "pending": "Pending",
+        "confirmed": "Confirmed",
+        "totalRevenue": "Total Revenue"
+      },
+      "filter": {
+        "all": "All",
+        "pending": "Pending",
+        "confirmed": "Confirmed",
+        "cancelled": "Cancelled"
+      },
+      "table": {
+        "name": "Name",
+        "date": "Date",
+        "occasion": "Occasion",
+        "guests": "Guests",
+        "amount": "Amount",
+        "status": "Status",
+        "actions": "Actions"
+      },
+      "filterLabel": "Filter by status",
+      "details": {
+        "title": "Booking Details",
+        "name": "Name",
+        "email": "Email",
+        "phone": "Phone",
+        "date": "Date",
+        "occasion": "Occasion",
+        "numberOfGuests": "Number of Guests",
+        "amount": "Amount",
+        "status": "Status",
+        "bookedAt": "Booked At",
+        "toggleDetails": "Toggle details",
+        "specialRequirements": "Special Requirements",
+        "specialRequests": "Special Requests",
+        "dietaryNeeds": "Dietary Needs"
+      },
+      "status": {
+        "pending": "Pending",
+        "confirmed": "Confirmed",
+        "cancelled": "Cancelled"
+      },
+      "actions": {
+        "confirm": "Confirm",
+        "cancel": "Cancel",
+        "viewDetails": "View Details"
+      },
+      "notifications": {
+        "confirmSuccess": "Booking confirmed",
+        "confirmError": "Failed to confirm booking",
+        "cancelSuccess": "Booking cancelled",
+        "cancelError": "Failed to cancel booking"
+      }
+    },
+    "newsletter": {
+      "title": "Newsletter Management",
+      "tabs": {
+        "subscribers": "Subscribers",
+        "issues": "Newsletter Issues"
+      },
+      "subscribers": {
+        "title": "Subscribers",
+        "noSubscribers": "No subscribers found",
+        "table": {
+          "email": "Email",
+          "subscribedDate": "Subscribed Date",
+          "active": "Active",
+          "actions": "Actions"
+        },
+        "actions": {
+          "activate": "Activate",
+          "deactivate": "Deactivate"
+        }
+      },
+      "issues": {
+        "title": "Newsletter Issues",
+        "addIssue": "Add Issue",
+        "noIssues": "No newsletter issues found",
+        "form": {
+          "title": "Title",
+          "description": "Description",
+          "pdfUpload": "Upload PDF",
+          "save": "Save Issue",
+          "cancel": "Cancel"
+        },
+        "actions": {
+          "delete": "Delete",
+          "download": "Download PDF"
+        }
+      },
+      "notifications": {
+        "subscriberUpdateSuccess": "Subscriber updated",
+        "subscriberUpdateError": "Failed to update subscriber",
+        "issueCreateSuccess": "Newsletter issue created",
+        "issueCreateError": "Failed to create issue",
+        "issueDeleteSuccess": "Newsletter issue deleted",
+        "issueDeleteError": "Failed to delete issue"
+      }
+    },
+    "volunteers": {
+      "title": "Volunteers",
+      "noVolunteers": "No volunteers found",
+      "filter": {
+        "all": "All",
+        "pending": "Pending",
+        "accepted": "Accepted",
+        "rejected": "Rejected"
+      },
+      "table": {
+        "name": "Name",
+        "email": "Email",
+        "phone": "Phone",
+        "availability": "Availability",
+        "interests": "Interests",
+        "status": "Status",
+        "date": "Date",
+        "actions": "Actions"
+      },
+      "status": {
+        "pending": "Pending",
+        "accepted": "Accepted",
+        "rejected": "Rejected"
+      },
+      "actions": {
+        "accept": "Accept",
+        "reject": "Reject",
+        "reset": "Reset"
+      },
+      "rejectConfirm": {
+        "title": "Reject Volunteer",
+        "message": "Are you sure you want to reject this volunteer application?",
+        "confirm": "Reject",
+        "cancel": "Cancel"
+      },
+      "notifications": {
+        "acceptSuccess": "Volunteer accepted",
+        "acceptError": "Failed to accept volunteer",
+        "rejectSuccess": "Volunteer rejected",
+        "rejectError": "Failed to reject volunteer",
+        "resetSuccess": "Volunteer status reset",
+        "resetError": "Failed to reset volunteer"
+      }
+    },
+    "dataRequests": {
+      "title": "Data Requests",
+      "subtitle": "GDPR data export and deletion requests",
+      "noRequests": "No data requests found",
+      "table": {
+        "date": "Date",
+        "email": "Email",
+        "type": "Type",
+        "message": "Message",
+        "status": "Status",
+        "actions": "Actions"
+      },
+      "type": {
+        "export": "Export",
+        "delete": "Delete"
+      },
+      "status": {
+        "pending": "Pending",
+        "processing": "Processing",
+        "completed": "Completed"
+      },
+      "actions": {
+        "startProcessing": "Start Processing",
+        "markComplete": "Mark Complete"
+      },
+      "notifications": {
+        "updateSuccess": "Data request updated",
+        "updateError": "Failed to update data request"
+      }
+    },
+    "timeslots": {
+      "title": "Timeslot Booking Management",
+      "createEvent": {
+        "title": "Create Booking Event",
+        "eventTitle": "Event Title",
+        "date": "Date",
+        "description": "Description",
+        "allowMultiple": "Allow multiple bookings per slot",
+        "linkCalendar": "Link to Calendar Event",
+        "submit": "Create Event"
+      },
+      "events": {
+        "title": "Booking Events",
+        "noEvents": "No booking events found",
+        "active": "Active",
+        "inactive": "Inactive",
+        "toggleActive": "Toggle active",
+        "slotsCount": "{count} slots"
+      },
+      "slots": {
+        "title": "Time Slots",
+        "generate": "Generate Slots",
+        "startTime": "Start Time",
+        "endTime": "End Time",
+        "interval": "Interval (minutes)",
+        "generateBtn": "Generate",
+        "noSlots": "No time slots yet",
+        "booked": "Booked",
+        "available": "Available",
+        "book": "Book",
+        "unbook": "Unbook",
+        "delete": "Delete"
+      },
+      "booking": {
+        "title": "Book Slot",
+        "name": "Name",
+        "phone": "Phone",
+        "email": "Email",
+        "submit": "Book",
+        "cancel": "Cancel"
+      },
+      "confirmDelete": {
+        "title": "Delete Slot",
+        "message": "Are you sure you want to delete this time slot?",
+        "confirm": "Delete",
+        "cancel": "Cancel"
+      },
+      "notifications": {
+        "eventCreateSuccess": "Booking event created",
+        "eventCreateError": "Failed to create event",
+        "slotGenerateSuccess": "Slots generated successfully",
+        "slotGenerateError": "Failed to generate slots",
+        "bookSuccess": "Slot booked successfully",
+        "bookError": "Failed to book slot",
+        "unbookSuccess": "Booking removed",
+        "unbookError": "Failed to remove booking",
+        "deleteSuccess": "Slot deleted",
+        "deleteError": "Failed to delete slot"
+      }
+    },
+    "gallery": {
+      "title": "Gallery Management",
+      "tabs": {
+        "photos": "Photos",
+        "videos": "Videos"
+      },
+      "photos": {
+        "title": "Photos",
+        "upload": "Upload Photo",
+        "noPhotos": "No photos found",
+        "form": {
+          "album": "Album",
+          "caption": "Caption",
+          "file": "Choose File",
+          "submit": "Upload"
+        },
+        "albums": {
+          "temple": "Temple",
+          "events": "Events",
+          "board": "Board",
+          "community": "Community"
+        },
+        "actions": {
+          "moveUp": "Move up",
+          "moveDown": "Move down",
+          "delete": "Delete"
+        }
+      },
+      "videos": {
+        "title": "Videos",
+        "addVideo": "Add YouTube Video",
+        "noVideos": "No videos found",
+        "form": {
+          "videoId": "YouTube Video ID",
+          "title": "Title",
+          "description": "Description",
+          "submit": "Add Video"
+        },
+        "actions": {
+          "delete": "Delete"
+        }
+      },
+      "notifications": {
+        "photoUploadSuccess": "Photo uploaded",
+        "photoUploadError": "Failed to upload photo",
+        "photoDeleteSuccess": "Photo deleted",
+        "photoDeleteError": "Failed to delete photo",
+        "photoReorderSuccess": "Photo order updated",
+        "photoReorderError": "Failed to reorder photo",
+        "videoAddSuccess": "Video added",
+        "videoAddError": "Failed to add video",
+        "videoDeleteSuccess": "Video deleted",
+        "videoDeleteError": "Failed to delete video"
+      }
+    },
+    "settings": {
+      "title": "Settings",
+      "liveStream": {
+        "title": "Live Stream Configuration",
+        "videoId": "YouTube Video ID",
+        "streamTitle": "Stream Title",
+        "isLive": "Is Live",
+        "save": "Save Stream Settings",
+        "notifications": {
+          "saveSuccess": "Stream settings saved",
+          "saveError": "Failed to save settings"
+        }
+      },
+      "history": {
+        "title": "History Timeline Content",
+        "addMilestone": "Add Milestone",
+        "noMilestones": "No milestones added",
+        "form": {
+          "year": "Year",
+          "title": "Title",
+          "description": "Description"
+        },
+        "actions": {
+          "remove": "Remove",
+          "save": "Save History"
+        },
+        "notifications": {
+          "saveSuccess": "History saved",
+          "saveError": "Failed to save history"
+        }
+      },
+      "mfa": {
+        "title": "Two-Factor Authentication",
+        "status": {
+          "enabled": "2FA is enabled",
+          "disabled": "2FA is not enabled"
+        },
+        "setup": {
+          "title": "Set Up 2FA",
+          "scanQr": "Scan this QR code with your authenticator app",
+          "enterCode": "Enter the 6-digit code from your app",
+          "verificationCode": "Verification Code",
+          "verify": "Verify & Enable",
+          "cancel": "Cancel"
+        },
+        "actions": {
+          "enable": "Enable 2FA",
+          "disable": "Disable 2FA"
+        },
+        "notifications": {
+          "enableSuccess": "2FA enabled successfully",
+          "enableError": "Failed to enable 2FA",
+          "disableSuccess": "2FA disabled",
+          "disableError": "Failed to disable 2FA",
+          "verifyError": "Invalid verification code"
+        }
+      }
+    },
+    "users": {
+      "title": "User Management",
+      "addAdmin": "Add Admin",
+      "noUsers": "No admin users found",
+      "form": {
+        "displayName": "Display Name",
+        "email": "Email",
+        "role": "Role",
+        "submit": "Add Admin",
+        "cancel": "Cancel"
+      },
+      "table": {
+        "user": "User",
+        "role": "Role",
+        "created": "Created",
+        "lastLogin": "Last Login",
+        "actions": "Actions"
+      },
+      "roles": {
+        "super_admin": "Super Admin",
+        "admin": "Admin",
+        "viewer": "Viewer",
+        "descriptions": {
+          "super_admin": "Full access — manage users, settings, and all content",
+          "admin": "Manage content — members, events, donations, messages",
+          "viewer": "Read-only access — view dashboard and reports"
+        }
+      },
+      "actions": {
+        "changeRole": "Change Role",
+        "remove": "Remove Admin"
+      },
+      "removeConfirm": {
+        "title": "Remove Admin",
+        "message": "Are you sure you want to remove this admin user? They will lose all admin access.",
+        "confirm": "Remove",
+        "cancel": "Cancel"
+      },
+      "accessDenied": {
+        "title": "Access Denied",
+        "message": "You do not have permission to manage users. Only Super Admins can access this page."
+      },
+      "notifications": {
+        "addSuccess": "Admin user added",
+        "addError": "Failed to add admin user",
+        "roleUpdateSuccess": "Role updated successfully",
+        "roleUpdateError": "Failed to update role",
+        "removeSuccess": "Admin user removed",
+        "removeError": "Failed to remove admin user"
+      }
+    },
+    "common": {
+      "save": "Save",
+      "cancel": "Cancel",
+      "delete": "Delete",
+      "edit": "Edit",
+      "add": "Add",
+      "close": "Close",
+      "confirm": "Confirm",
+      "loading": "Loading...",
+      "error": "An error occurred",
+      "success": "Success",
+      "noData": "No data available",
+      "search": "Search...",
+      "filter": "Filter",
+      "actions": "Actions",
+      "status": "Status",
+      "date": "Date",
+      "yes": "Yes",
+      "no": "No",
+      "back": "Back",
+      "next": "Next",
+      "previous": "Previous",
+      "showing": "Showing {count} of {total}",
+      "sek": "SEK",
+      "exportCsv": "Export CSV",
+      "notProvided": "Not provided",
+      "notSpecified": "Not specified",
+      "notAvailable": "N/A",
+      "updating": "Updating..."
+    }
+  }
+}
